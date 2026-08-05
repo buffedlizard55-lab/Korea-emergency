@@ -31,6 +31,14 @@ A verified emergency-preparedness repo for your trip — entry rules, emergency 
 
 ---
 
+## ⚡ QUICK ACTIONS — Do This Week
+
+> **Today:** Fill [`checklists/medical-alert-card.md`](checklists/medical-alert-card.md) for both travelers  
+> **By ~29 Oct:** Submit [`e-Arrival Card`](https://www.e-arrivalcard.go.kr) (mandatory since 1 Jan 2026)  
+> **Before 31 Oct:** Confirm [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md) quick-ref; print [`docs/03-emergency-contacts.md`](docs/03-emergency-contacts.md) + [`print/emergency-card.pdf`](print/emergency-card.pdf)
+
+---
+
 ## 📅 Trip Timeline (21 Nights)
 
 | Date | Day | Phase | City | Nights | Key emergency / disruption flag |
@@ -51,7 +59,10 @@ A verified emergency-preparedness repo for your trip — entry rules, emergency 
 
 ---
 
-## 📚 All Documents — Click to Read (Every Link Works)
+<details>
+<summary><b>📚 All Documents — Click to expand / scroll</b> (Every Link Works)</summary>
+
+
 
 ### 🗺️ Trip Plan & Day Plan
 - [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md) — **Main emergency-first day plan** (375 lines, quick-ref at top, 4 phases, CSAT protocol, late-night arrival, embedded emergency block, blank template, update log)
@@ -81,6 +92,8 @@ A verified emergency-preparedness repo for your trip — entry rules, emergency 
 - [`print/emergency-card.html`](print/emergency-card.html) — **Renders 수능 properly in browser** — print from browser
 
 ---
+
+</details>
 
 ## 🚨 Emergency Numbers — Save in Phone & Paper (From `docs/03-emergency-contacts.md`)
 
