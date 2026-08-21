@@ -15,10 +15,8 @@
 | Depart South Korea | 22 Nov 2026 | Sunday |
 
 ## Key takeaways for this trip
-1. **You arrive late (9 PM) on a Sunday.** The AREX airport train runs until
-   ~11:32 PM and night buses operate, but if you clear immigration late, plan
-   for a night bus (N6000/N6001) or taxi (night surcharge applies
-   10 PM–4 AM). See `07-transportation.md`.
+1. **You arrive late (9 PM) on a Sunday.** Check the official AREX timetable and Incheon Airport night-bus page. If you
+   clear immigration late, plan for a current night-bus option or taxi. See `07-transportation.md`.
 2. **No K-ETA needed** for your 2026 dates — the exemption runs through 31
    Dec 2026. **But you must submit the free e-Arrival Card** within 72 hours
    of landing. See `02-entry-documents.md`.

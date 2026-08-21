@@ -1,8 +1,8 @@
 # 🇰🇷 South Korea Emergency Preparedness Kit
 
-> **Trip:** SFO → South Korea · **31 Oct – 22 Nov 2026**  
-> **Travelers:** 2 U.S. citizens (1 male, 1 female) · California  
-> **Arrival:** Incheon (ICN) **Sun 1 Nov 2026, 9:00 PM** · **Departure:** Sun 22 Nov 2026  
+> **Trip:** SFO → South Korea · **31 Oct – 22 Nov 2026**
+> **Travelers:** 2 U.S. citizens (1 male, 1 female) · California
+> **Arrival:** Incheon (ICN) **Sun 1 Nov 2026, 9:00 PM** · **Departure:** Sun 22 Nov 2026
 > **Branch:** `arena/01a023ba-korea-emergency` · **Last reviewed:** 21 Aug 2026 · **Re-verify:** 1–2 weeks before departure
 
 An emergency-preparedness repo with a conservative verification audit for your trip — entry rules, emergency contacts, health/medications, weather/packing, holidays & traffic, transport, and safety. Critical facts are linked to official sources; planning advice is labeled (see [`docs/sources.md`](docs/sources.md)).
@@ -33,8 +33,8 @@ An emergency-preparedness repo with a conservative verification audit for your t
 
 ## ⚡ QUICK ACTIONS — Do This Week
 
-> **Today:** Fill [`checklists/medical-alert-card.md`](checklists/medical-alert-card.md) for both travelers  
-> **By ~29 Oct:** Submit [`e-Arrival Card`](https://www.e-arrivalcard.go.kr) (mandatory since 1 Jan 2026)  
+> **Today:** Fill [`checklists/medical-alert-card.md`](checklists/medical-alert-card.md) for both travelers
+> **By ~29 Oct:** Submit [`e-Arrival Card`](https://www.e-arrivalcard.go.kr) (currently required for K-ETA-exempt travelers)
 > **Before 31 Oct:** Confirm [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md) quick-ref; print [`docs/03-emergency-contacts.md`](docs/03-emergency-contacts.md) + [`print/emergency-card.pdf`](print/emergency-card.pdf)
 
 ---
@@ -129,7 +129,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 ## 🔑 Before You Leave — Final Checklist
 
 - [ ] **Submit e-Arrival Card** at [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) (do by ~29 Oct for 1 Nov arrival)
-- [ ] **Confirm K-ETA exemption** still in effect (`kr.usembassy.gov`) — currently through 31 Dec 2026
+- [ ] **Confirm K-ETA exemption** still in effect (`kr.usembassy.gov`) — currently through 31 Dec 2026 (verify at the official K-ETA portal)
 - [ ] **Confirm CSAT date** (`kice.re.kr`) — currently Thu 19 Nov 2026
 - [ ] **Book hotels** near KTX/transit → add Korean address to file / card
 - [ ] **Book KTX** seats: 8 Nov (Seoul→Daejeon), 13 Nov (→Busan), 20 Nov (Busan→Seoul)

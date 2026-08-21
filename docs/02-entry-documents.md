@@ -1,6 +1,6 @@
 # 2. Entry Requirements & Documents
 
-Sources: [S1][S8][S7][S8] — see `sources.md`. **Re-verify 1–2 weeks before
+Sources: [S1][S8][S7] — see `sources.md`. **Re-verify 1–2 weeks before
 departure**, as policies change with little notice.
 
 ## Do I need a visa?
@@ -18,8 +18,7 @@ without a visa. Your ~22-day trip is well within that. [S1]
 
 ## e-Arrival Card — REQUIRED for this trip ⚠️
 Because you're traveling on the K-ETA exemption (no valid K-ETA), you must
-submit the **e-Arrival Card**, mandatory for all foreign arrivals since
-**1 Jan 2026**. [S7][S8]
+submit the **e-Arrival Card**, currently required for K-ETA-exempt travelers. [S7][S8]
 
 - **What:** A digital declaration replacing the old paper arrival card.
 - **Where:** Official portal **https://www.e-arrivalcard.go.kr**.

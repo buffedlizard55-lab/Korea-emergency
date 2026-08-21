@@ -33,7 +33,7 @@ departure, because policies can change with little notice.
 - **Travel Advisory level:** Level 1 — *Exercise normal precautions.* [S1]
 - **K-ETA:** Exemption for U.S. passport holders **extended through 31 Dec
   2026**. Your 2026 trip therefore does **not** require a K-ETA. Requirement
-  resumes 1 Jan 2027. [S1][S3]
+  resumes 1 Jan 2027. [S1][S8]
 - **e-Arrival Card:** Mandatory for foreign visitors (anyone arriving without
   a valid K-ETA) since **1 Jan 2026**. Free; submit online within **72 hours
   before arrival**. This applies to you because you're traveling on the
@@ -58,7 +58,7 @@ departure, because policies can change with little notice.
 
 ## Things to re-verify 1–2 weeks before departure
 
-- K-ETA exemption still in effect (currently through 31 Dec 2026). [S1][S3]
+- K-ETA exemption still in effect (currently through 31 Dec 2026). [S1][S8]
 - e-Arrival Card portal is live and your entry is submitted. [S7]
 - Any COVID-19/entry health requirements (currently none). [S6]
 - CSAT date confirmation for 19 Nov 2026. [S10]

@@ -65,3 +65,11 @@ verified from a static repository alone.
 These checks verify repository consistency and source coverage. They do not make
 future schedules, fares, advisories, weather, or entry policy permanent; those
 remain subject to the official recheck listed above.
+
+## Repeat ten-pass review completed 21 August 2026
+
+A repeat run after the source and claim cleanup returned **10/10**: inventory,
+relative targets, link syntax, date consistency, stale/high-risk claims, source
+register, official-domain coverage, emergency contacts, printable-card scan, and
+audit documentation all passed. No unsupported high-risk claim matches remained
+outside the audit's intentional historical notes.
