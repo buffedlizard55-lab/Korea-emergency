@@ -123,7 +123,7 @@ It is a day-by-day framework that pairs your travel dates with the places you wi
 - **Transport locally:** Daejeon has a subway (1 line); taxis are affordable; use Kakao T; write your hotel address in Korean.
 - **Language / emergency:** 1330 works nationally; 112/119 are national. Save your hotel's Korean address in your notes.
 - **Weather:** Daejeon is inland and can be slightly colder at night than Seoul (similar range ~2–4 °C low); check KMA (S12).
-- **No holidays / no CSAT impact:** CSAT is 19 Nov — you leave Daejeon/Cheonan 13 Nov, so no direct disruption. However, banks/offices in Cheonan open ~10 AM on 19 Nov if you extend — not relevant to your plan.
+- **No scheduled CSAT stay in this phase:** CSAT is 19 Nov, after you leave Daejeon/Cheonan. If plans change, check official local notices rather than assuming altered hours.
 - **Food / allergies / meds:** Same rules as Seoul; pharmacies available; 24-hour pharmacy rotates — ask 1330.
 - **Hotels not decided:** If you stay near **Daejeon Station / Government Complex / Expo**, you have direct KTX access (good for quick return to Seoul in emergency) and best taxi/translation support. If you stay near **Cheonan Asan Station**, same — direct KTX to Seoul/Busan.
 

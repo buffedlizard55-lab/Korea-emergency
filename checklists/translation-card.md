@@ -18,7 +18,7 @@
 | Call the police. | 경찰을 불러주세요. | Gyeong-chal-eul bul-yeo-ju-se-yo. | Theft / assault / crowd danger |
 | I lost my passport. | 여권을 잃어버렸습니다. | Yeo-gwon-eul i-reo-beo-ryeot-seum-ni-da. | At police station / embassy / airport |
 | I need the US Embassy. | 미국 대사관이 필요합니다. | Mi-guk dae-sa-gwan-i pil-yo-ham-ni-da. | At police / taxi / to ask for embassy direction |
-| I do not speak Korean. | 한국어를 못합니다. | Han-guk-eo-reul mot-ham-ni-da. | At any interaction — they will try English |
+| I do not speak Korean. | 한국어를 못합니다. | Han-guk-eo-reul mot-ham-ni-da. | Show this to staff / a translator |
 | Please write the address in Korean. | 한국어로 주소를 적어주세요. | Han-guk-eo-ro ju-so-reul jeo-geo-ju-se-yo. | To taxi / to write on paper for directions |
 | My hotel is [name]. | 제 호텔은 [이름]입니다. | Je ho-tel-eun [i-reum]-im-ni-da. | To taxi / to ask for route |
 | I need help / I am lost. | 도와주세요. / 길을 잃었습니다. | Do-wa-ju-se-yo. / Gil-eul i-reot-seum-ni-da. | Show to staff / a passerby |
@@ -26,7 +26,7 @@
 | I have chest pain / difficulty breathing. | 가슴이 아프고 숨이 차요. | Ga-seum-i a-peu-go sum-i cha-yo. | Call 119 immediately |
 | Is this safe / safe to drink / eat? | 이건 안전한가요? / 마실 수 있나요? | I-geon an-jeon-han-ga-yo? / Ma-sil su it-na-yo? | At restaurant / market / water source |
 | How much does this cost? | 이건 얼마예요? | I-geon eol-ma-ye-yo? | At market / taxi / restaurant |
-| Thank you / Please. | 감사합니다. / 제발. | Gam-sa-ham-ni-da. / Je-bal. | Polite — helps interactions significantly |
+| Thank you / Please. | 감사합니다. / 제발. | Gam-sa-ham-ni-da. / Je-bal. | General courtesy |
 
 ---
 
