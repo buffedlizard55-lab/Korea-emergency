@@ -7,7 +7,10 @@
 
 An emergency-preparedness repo with a conservative verification audit for your trip — entry rules, emergency contacts, health/medications, weather/packing, holidays & traffic, transport, and safety. Critical facts are linked to official sources; planning advice is labeled (see [`docs/sources.md`](docs/sources.md)).
 
-> **GitHub Pages:** The simple first-timer site is [`index.html`](index.html). This README remains the detailed repository record.
+> **GitHub Pages:** <https://buffedlizard55-lab.github.io/Korea-emergency/> — the mobile-first emergency
+> front page (`index.html`): tap-to-call numbers, critical warnings, trip timeline, lost-property desk
+> list, Seoul/Busan cards and the pre-departure checklist, every claim source-linked. This README
+> remains the detailed repository record.
 
 ---
 
