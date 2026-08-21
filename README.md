@@ -3,9 +3,11 @@
 > **Trip:** SFO → South Korea · **31 Oct – 22 Nov 2026**
 > **Travelers:** 2 U.S. citizens (1 male, 1 female) · California
 > **Arrival:** Incheon (ICN) **Sun 1 Nov 2026, 9:00 PM** · **Departure:** Sun 22 Nov 2026
-> **Branch:** `arena/01a023ba-korea-emergency` · **Last reviewed:** 21 Aug 2026 · **Re-verify:** 1–2 weeks before departure
+> **Last reviewed:** 21 Aug 2026 · **Re-verify:** 1–2 weeks before departure
 
 An emergency-preparedness repo with a conservative verification audit for your trip — entry rules, emergency contacts, health/medications, weather/packing, holidays & traffic, transport, and safety. Critical facts are linked to official sources; planning advice is labeled (see [`docs/sources.md`](docs/sources.md)).
+
+> **GitHub Pages:** The simple first-timer site is [`index.html`](index.html). This README remains the detailed repository record.
 
 ---
 
@@ -15,15 +17,15 @@ An emergency-preparedness repo with a conservative verification audit for your t
 |---|---|---|
 | **1** | Read the quick-ref at top of the day plan; note CSAT **Thu 19 Nov** and 9 PM arrival | [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md) |
 | **2** | Fill medical cards for **both** travelers (allergies / meds / blood type / CA contact / insurance) | [`checklists/medical-alert-card.md`](checklists/medical-alert-card.md) |
-| **3** | Submit **e-Arrival Card** (free; within 72 h before 1 Nov — do by **29 Oct**) | [`https://www.e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) · [`docs/02-entry-documents.md`](docs/02-entry-documents.md) |
+| **3** | Submit **e-Arrival Card** (free; official window starts 3 days before arrival; do not submit too early) | [`https://www.e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) · [`docs/02-entry-documents.md`](docs/02-entry-documents.md) |
 
 ---
 
 ## 🚨 TOP 5 — Read These First
 
-1. **e-Arrival Card (mandatory):** U.S. citizens on **K-ETA exemption through 31 Dec 2026** — no K-ETA needed. Submit [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) within 72 h of arrival. → [`docs/02-entry-documents.md`](docs/02-entry-documents.md)
-2. **Late-night arrival (9 PM):** check current AREX timetable; night buses `N6000/N6001`; taxi **night surcharge 10 PM–4 AM** (~+40% 11 PM–2 AM). Use **Kakao T**. Save hotel address in **Korean**. → [`docs/07-transportation.md`](docs/07-transportation.md)
-3. **CSAT exam — Thu 19 Nov:** Inside your Busan stay. KICE lists English listening 13:10–14:20; check official local transport/aviation notices closer to the date. → [`docs/06-holidays-traffic-dates.md`](docs/06-holidays-traffic-dates.md) · [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md)
+1. **e-Arrival Card (mandatory):** U.S. citizens on **K-ETA exemption through 31 Dec 2026** — no K-ETA needed. Submit [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) during the official pre-arrival window, which starts 3 days before arrival and expires 72 hours after submission. → [`docs/02-entry-documents.md`](docs/02-entry-documents.md)
+2. **Late-night arrival (9 PM):** check current AREX and Incheon Airport night-bus pages; taxi fares/surcharges vary by taxi type, time, route, tolls, and official fare rules. Use the meter or Kakao T. Save hotel address in **Korean**. → [`docs/07-transportation.md`](docs/07-transportation.md)
+3. **CSAT exam — Thu 19 Nov:** Inside your Busan stay. KICE lists English 13:10–14:20 and says listening starts at 13:10; check official local transport/aviation notices closer to the date. → [`docs/06-holidays-traffic-dates.md`](docs/06-holidays-traffic-dates.md) · [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md)
 4. **No national public holidays listed** 1–22 Nov in the current VISITKOREA calendar; local events and schedules still require checking. → [`docs/06-holidays-traffic-dates.md`](docs/06-holidays-traffic-dates.md)
 5. **Medication rules:** No cannabis/CBD; controlled meds need MFDS approval (`narcotics@korea.kr`, ≥2 weeks); non-controlled up to ~6 bottles / 3 months with original Rx + doctor's letter. → [`docs/04-health-medications.md`](docs/04-health-medications.md)
 
@@ -34,7 +36,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 ## ⚡ QUICK ACTIONS — Do This Week
 
 > **Today:** Fill [`checklists/medical-alert-card.md`](checklists/medical-alert-card.md) for both travelers
-> **By ~29 Oct:** Submit [`e-Arrival Card`](https://www.e-arrivalcard.go.kr) (currently required for K-ETA-exempt travelers)
+> **When the official window opens:** Submit [`e-Arrival Card`](https://www.e-arrivalcard.go.kr) (required for K-ETA-exempt travelers; do not submit too early)
 > **Before 31 Oct:** Confirm [`docs/10-itinerary-day-plan.md`](docs/10-itinerary-day-plan.md) quick-ref; print [`docs/03-emergency-contacts.md`](docs/03-emergency-contacts.md) + [`print/emergency-card.pdf`](print/emergency-card.pdf)
 
 ---
@@ -50,10 +52,10 @@ An emergency-preparedness repo with a conservative verification audit for your t
 | 9–12 Nov | Mon–Thu | 2 | Daejeon / Cheonan | 5 | Ask 1330 for nearest international clinic |
 | **13 Nov** | **Fri** | **3** | **Busan** | 7 | **Busan Consulate has NO consular services; use Seoul** |
 | 14–18 Nov | Sat–Wed | 3 | Busan | 7 | Beach/current safety (Haeundae/Gwangalli); coastal wind |
-| **19 Nov** | **Thu** | **3 — CSAT** | **Busan** | — | **CSAT (수능)** — KICE English listening session 13:10–14:20; check local notices |
+| **19 Nov** | **Thu** | **3 — CSAT** | **Busan** | — | **CSAT (수능)** — KICE English 13:10–14:20; check local notices |
 | 20 Nov | Fri | 4 / 3 | Busan → Seoul | 2 | Return to Seoul; settle |
 | 21 Nov | Sat | 4 | Seoul | — | Last full day; crowd-safety if evening |
-| **22 Nov** | **Sun** | **4 — Departure** | **Seoul → ICN** | — | **Depart; allow 60–90 min to ICN** |
+| **22 Nov** | **Sun** | **4 — Departure** | **Seoul → ICN** | — | **Depart; allow a generous airport-transfer buffer** |
 
 *The draft allocation is Seoul 9 nights total (7 first + 2 final), Daejeon 5, and Busan 7. Seoul therefore exceeds the stated 5–7-day range; adjust the city split after hotels and transport are decided.*
 
@@ -85,7 +87,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 - [`docs/07-transportation.md`](docs/07-transportation.md) — Late-night ICN, AREX / night bus / taxi + night surcharge, Kakao T
 - [`docs/08-safety-security.md`](docs/08-safety-security.md) — Level 1, STEP, crowd-crush (Itaewon 2022), lost passport
 - [`docs/09-money-communication.md`](docs/09-money-communication.md) — Cash, SIM / eSIM, phrases, adapters
-- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S15** — official links reviewed 21 Aug 2026
+- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S17** — official links reviewed 21 Aug 2026
 
 ### 🖨️ Printable / Offline
 - [`print/emergency-card.pdf`](print/emergency-card.pdf) — One-page wallet card (romanized; no Korean fonts available in workspace)
@@ -102,17 +104,17 @@ An emergency-preparedness repo with a conservative verification audit for your t
 | **112** | Police | S1 / S2 |
 | **119** | Ambulance / Fire / Rescue | S1 / S2 |
 | **1366** | Domestic-violence hotline | S1 |
-| **1330** | Korea Travel Helpline — **English 24/7**; from overseas `+82-2-1330` | S1 / S2 |
+| **1330** | Korea Travel Helpline — **English 24/7**; from overseas `+82-2-1330` | S3 |
 | **+82-2-3210-0404** | Korea Emergency Call Center — request English operator | S1 |
 | **+82-2-397-4114** | **U.S. Embassy Seoul — 24/7** | S1 / S2 |
 | **188 Sejong-daero, Jongno-gu** | U.S. Embassy Seoul address | S2 / S8 |
-| **+82-51-863-0731** | U.S. Consulate Busan — **NO consular services** (passport / serious → Seoul) | S2 / S8 |
+| U.S. Consulate Busan | **NO consular services** — passport / serious emergency help is through U.S. Embassy Seoul | S2 |
 | **+1-202-501-4444** | U.S. State Dept — from abroad | S1 |
 | [`step.state.gov`](https://step.state.gov) | STEP enrollment | S5 |
 | [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) | **Mandatory e-Arrival Card** | S7 |
 | [`k-eta.go.kr`](https://www.k-eta.go.kr) | K-ETA (not needed through 31 Dec 2026) | S8 |
 
-> **Note:** No direct public emergency email for U.S. Embassy Seoul — use [`kr.usembassy.gov`](https://kr.usembassy.gov) contact form or call **+82-2-397-4114 24/7**.
+> **Emergency channel:** For U.S. citizen emergencies, call **+82-2-397-4114 24/7**. Use [`kr.usembassy.gov`](https://kr.usembassy.gov) for current non-emergency contact options.
 
 ---
 
@@ -128,7 +130,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 
 ## 🔑 Before You Leave — Final Checklist
 
-- [ ] **Submit e-Arrival Card** at [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) (do by ~29 Oct for 1 Nov arrival)
+- [ ] **Submit e-Arrival Card** at [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) during the official pre-arrival window for 1 Nov arrival; do not submit too early
 - [ ] **Confirm K-ETA exemption** still in effect (`kr.usembassy.gov`) — currently through 31 Dec 2026 (verify at the official K-ETA portal)
 - [ ] **Confirm CSAT date** (`kice.re.kr`) — currently Thu 19 Nov 2026
 - [ ] **Book hotels** near KTX/transit → add Korean address to file / card
@@ -147,8 +149,6 @@ An emergency-preparedness repo with a conservative verification audit for your t
 ## ⚠️ Important Notes
 
 - **No Korean fonts installed in workspace** — `print/emergency-card.pdf` uses romanized "Suneung / CSAT"; the HTML version (`print/emergency-card.html`) renders **수능** properly in a browser.
-- **Workspace snapshots exclude `.git/config`** (credentials) and build dirs — work is saved in git branch `arena/01a023ba-korea-emergency`; push only to this branch.
-- **Repo was rebuilt after workspace refresh** (same issue occurred twice). All files are present at latest commit (`3b0ce7c`).
 - **Official source links reviewed 21 Aug 2026** against official sources (`docs/sources.md`). Policies can change — always check the source portal before departure.
 
 > This repo is a **preparedness framework**, not legal / medical / insurance advice. Confirm critical items with the relevant agency (U.S. State Dept, CDC, MFDS, KICE, KMA, airport / AREX) 1–2 weeks before departure.

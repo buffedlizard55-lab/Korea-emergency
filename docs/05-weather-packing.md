@@ -9,10 +9,9 @@ fine-dust information: AirKorea [S13]. No fixed forecast is asserted here.
 | Temperature, precipitation, snow | Check the KMA forecast and warnings close to each travel date [S12]. |
 | Fine dust | Check AirKorea close to each travel date [S13]. |
 
-- **It's colder than it looks.** Evenings and windy days feel much colder.
-- By **mid–late November** it gets noticeably colder; northern/eastern areas
-  (Gangwon) and higher ground can see light snow.
-- Do not rely on a city-wide average; check the destination-specific forecast.
+- November comfort depends on the city, wind, rain, and daily forecast.
+- Do not rely on a city-wide average; check the destination-specific KMA
+  forecast and warning page close to each travel date.
 
 ## Packing list (layering is key)
 **Clothing**
@@ -36,9 +35,9 @@ fine-dust information: AirKorea [S13]. No fixed forecast is asserted here.
 - Small hand sanitizer
 
 **Electronics**
-- Universal travel adapter (Korea uses **Type C / Type F** plugs, **220V**,
-  60 Hz) + voltage converter **only** if you have non-dual-voltage devices
-  (most phone chargers/laptops are 100–240V; check labels)
+- Universal travel adapter. U.S. Trade.gov's electric-current table lists Korea
+  as 220/380V and 60Hz; check your hotel's outlet type and each device label.
+  Bring a voltage converter only for non-dual-voltage devices. [S17]
 - Portable power bank
 - Phone data: eSIM or travel SIM is easiest; or rent pocket Wi-Fi at ICN
 - Offline maps (download Google Maps offline / Naver Map / Kakao Map in

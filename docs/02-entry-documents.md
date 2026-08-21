@@ -22,12 +22,14 @@ submit the **e-Arrival Card**, currently required for K-ETA-exempt travelers. [S
 
 - **What:** A digital declaration replacing the old paper arrival card.
 - **Where:** Official portal **https://www.e-arrivalcard.go.kr**.
-- **When:** Submit **within 72 hours before arrival** (valid for 72 h from
-  submission). Do it after check-in/on your outbound flight day.
+- **When:** Submit during the official pre-arrival window. The official guide
+  says filing is available starting **3 days before arrival in Korea based on
+  Korean Standard Time**, and validity is lost **72 hours after submission**.
+  Do not submit too early.
 - **Cost:** Free.
 - **Who:** All foreign nationals who don't hold a valid K-ETA — including you.
-- You'll need: passport details, flight number, accommodation address, basic
-  health/contact info.
+- You'll need: valid passport, valid email address, date of entry / flight
+  number, place-of-stay information, and departure information if available.
 
 ## Other required / strongly recommended documents
 - **Passport** — valid for your entire stay (U.S. passport; no specific

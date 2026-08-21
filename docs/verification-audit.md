@@ -11,6 +11,8 @@ because it is plausible.
   ambulance/fire, 1366 is the domestic-violence hotline, +82-2-3210-0404 is
   the international-caller emergency center, and +82-2-397-4114 is the U.S.
   Embassy emergency number. See [S1](https://travel.state.gov/en/international-travel/travel-advisories/south-korea.html).
+- Korea.net (official ROK website): 1330 Korea Travel Hotline service is listed
+  as available 365 days a year, 24 hours a day. See [S3](https://www.korea.net/NewsFocus/Society/view?articleId=188326).
 - U.S. State Department and the Embassy: Busan has no consular services; U.S.
   consular services are provided in Seoul. See [S1](https://travel.state.gov/en/international-travel/travel-advisories/south-korea.html) and [S2](https://kr.usembassy.gov/busan/).
 - Korean e-Arrival Card: K-ETA-exempt people are subject; a submission becomes
@@ -18,8 +20,11 @@ because it is plausible.
 - MFDS/U.S. Embassy: controlled-substance approval is required before entry;
   the Embassy's non-controlled guidance says up to six bottles or a three-month
   supply with specified documentation. See [S4](https://kr.usembassy.gov/services-controlled-substance/) and [S11](https://www.mfds.go.kr/eng/brd/m_60/view.do?seq=75669).
-- KICE: the 2026 exam date is 19 November 2026 and its English listening session
-  is scheduled for 13:10–14:20. See [S10](https://csatcdn.kice.re.kr/resources/pdf/guideline.pdf).
+- KICE: the 2027 CSAT guideline/search result identifies the exam date as
+  19 November 2026; KICE's CSAT schedule page lists English from 13:10–14:20
+  and states the listening test starts at 13:10 for about 25 minutes. See
+  [S10](https://www.kice.re.kr/sub/info.do?m=0205&s=english) and the official
+  guideline PDF URL in `docs/sources.md`.
 - VISITKOREA's 2026 holiday list has no listed national holiday from 1–22
   November. See [S9](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140038).
 - AREX and Incheon Airport publish the current rail and late-night-bus tables.
@@ -33,7 +38,7 @@ The repository previously presented these as official facts without a direct,
 dated official notice: a nationwide 13:05–13:40 flight hold on CSAT day; exact
 numbers of test-takers/test centers; a 200 m no-vehicle radius; universal 10:00
 opening time; exact CSAT-day noise and military-training rules; fixed airport taxi
-prices; and fixed AREX/night-bus fares and times. They are now either removed,
+prices; fixed AREX/night-bus fares and times; and static hospital lists. They are now either removed,
 qualified, or linked to the official timetable/portal that must be checked.
 
 ## Personal planning advice, not official facts
@@ -56,7 +61,7 @@ verified from a static repository alone.
 3. Markdown link syntax check — passed.
 4. Trip-date and weekday consistency — passed.
 5. High-risk stale-claim scan — passed; no removed CSAT/old-branch/climate claims remained outside this audit's historical notes.
-6. S1–S15 source-register completeness — passed.
+6. S1–S17 source-register completeness — passed.
 7. Official-domain coverage — passed for State Department, Embassy, Korean entry/visa services, KICE, airport/AREX, and CDC.
 8. Emergency-contact presence — passed.
 9. Printable HTML stale-claim scan — passed.
@@ -73,3 +78,9 @@ relative targets, link syntax, date consistency, stale/high-risk claims, source
 register, official-domain coverage, emergency contacts, printable-card scan, and
 audit documentation all passed. No unsupported high-risk claim matches remained
 outside the audit's intentional historical notes.
+
+## Third ten-pass review completed 21 August 2026
+
+A stricter line-by-line cleanup was completed after the GitHub Pages UI work. The review removed or softened unsupported exact claims about e-Arrival timing, CSAT listening/flight wording, Busan Consulate phone details, static hospitals, rail timings, weather averages, and Embassy email wording. Source coverage was expanded from S1–S17 to S1–S17.
+
+Final result: **10 consecutive audit passes, all 10/10 checks passing**. See [`line-by-line-verification-2026-08-21.md`](line-by-line-verification-2026-08-21.md) for the current source-backed review record.

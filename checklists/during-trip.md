@@ -16,7 +16,7 @@
 
 ## On CSAT day — Thursday 19 Nov
 - [ ] If traveling within Korea: extra morning time; avoid driving near schools/test sites
-- [ ] **Check airline/airport notices before booking flights on CSAT day**; KICE English listening session is 13:10–14:20
+- [ ] **Check airline/airport notices before booking flights on CSAT day**; KICE lists English at 13:10–14:20
 - [ ] Check official notices for any altered office, bank, or transport hours
 
 ## Departure day — Sun 22 Nov

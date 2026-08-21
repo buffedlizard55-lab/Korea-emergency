@@ -1,8 +1,8 @@
 # 11. Emergency Scenario Guide — What to Do When Unplanned Things Happen
 
-> **For:** Two U.S. citizens (1 male / 1 female), California → Seoul 31 Oct – 22 Nov 2026  
-> **Sources:** Official contacts and links are in S1–S15. Scenario steps combine official emergency contacts with general safety recommendations; they are not legal, medical, insurance, or hotel-policy guarantees.  
-> **Use with:** `docs/10-itinerary-day-plan.md`, `checklists/offline-emergency-card.md`, `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`  
+> **For:** Two U.S. citizens (1 male / 1 female), California → Seoul 31 Oct – 22 Nov 2026
+> **Sources:** Official contacts and links are in S1–S17. Scenario steps combine official emergency contacts with general safety recommendations; they are not legal, medical, insurance, or hotel-policy guarantees.
+> **Use with:** `docs/10-itinerary-day-plan.md`, `checklists/offline-emergency-card.md`, `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`
 
 ---
 
@@ -56,7 +56,7 @@
 2. **Use the other traveler's phone.** Designate one phone as “primary” for both travelers; the other is backup. Carry both.
 3. **Use hotel / concierge / staff:** Major hotels (especially near Seoul Station / Myeongdong / Busan Haeundae) have English-speaking front desk staff. They can call taxis, translate for 119/1330, and help with directions.
 4. **Use public/phone booths:** Korean phone booths (at subway stations, major intersections) work with coins / cards — dial 112, 119, 1330, or +82-2-397-4114 directly.
-5. **Use WiFi at any cafe / convenience store (CU / GS25 / 7-Eleven / Starbucks):** Most offer free WiFi; you can use Naver Papago online (or download offline packs before travel) to translate; you can message CA contact via WhatsApp / iMessage if on WiFi.
+5. **Find a way online:** Try your hotel, a major cafe, airport/station Wi-Fi, or ask staff for help. Use Naver Papago online if available, or download offline language packs before travel. Message your CA contact when you have data/Wi-Fi.
 6. **Pre-download offline maps:** Download Seoul / Busan / Daejeon offline maps in **Naver Maps** or **KakaoMap** before departure; download **Naver Papago** offline translation packs.
 7. **Power bank / charger:** Carry at least one 20,000 mAh power bank per traveler; carry a universal adapter (Korea uses 220V / 60Hz, Type C / Type F plugs — same as much of Europe).
 
@@ -188,10 +188,10 @@
 | International caller — request English operator | **+82-2-3210-0404** | Korea Emergency Call Center |
 | U.S. Embassy Seoul — 24/7 emergency / passport / legal | **+82-2-397-4114** | Address: 188 Sejong-daero |
 | U.S. Embassy — website / messages / updates | **https://kr.usembassy.gov** | Check before departure / during trip |
-| U.S. Consulate Busan — **no consular services**; use Seoul for passport / emergency | **+82-51-863-0731** | Only basic contact / referral |
+| U.S. Consulate Busan — **no consular services**; use Seoul for passport / emergency | No emergency consular services listed | S2 |
 | U.S. State Dept — from abroad (after leaving Korea / if needed) | **+1-202-501-4444** | S1 |
 | STEP enrollment (before departure) | **https://step.state.gov** | S5 |
-| e-Arrival Card (mandatory — submit 72h before 1 Nov) | **https://www.e-arrivalcard.go.kr** | S7 |
+| e-Arrival Card (mandatory — submit during official pre-arrival window) | **https://www.e-arrivalcard.go.kr** | S7 |
 | K-ETA status check (not needed through 31 Dec 2026) | **https://www.k-eta.go.kr** | S8 |
 | Health info / vaccines / diseases | **https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-korea** | S6 |
 | Weather / storm / snow / temperature | **https://www.kma.go.kr/eng/** | S12 |

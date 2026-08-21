@@ -20,7 +20,7 @@ university entrance exam. In 2026 it is held on **Thursday, 19 November**
 
 On CSAT day, normal operations may be adjusted around the exam. The following
 items are confirmed or should be treated as planning cautions:
-- **Exam schedule:** KICE lists the English listening session at **13:10–14:20**.
+- **Exam schedule:** KICE lists the English session at **13:10–14:20** and states that the listening test starts at 13:10 and lasts about 25 minutes.
   This is an exam timetable, not a flight restriction. Check the airline, airport,
   and Korean aviation authority closer to the date for any operational notice.
 - **Travel caution:** Because this is a national exam, verify same-day transport
@@ -33,8 +33,9 @@ items are confirmed or should be treated as planning cautions:
   avoid driving near schools/test sites.
 - If flying on 19 Nov, check the airline/airport for restrictions before booking;
   do not infer a restriction from the KICE exam timetable.
-- It is *not* a public holiday — shops, attractions, and restaurants operate,
-  just with adjusted office/bank hours and traffic management.
+- It is *not* listed as a national public holiday in the VISITKOREA 2026
+  holiday calendar. Check dated local notices for any office, bank, traffic, or
+  venue schedule changes.
 
 ### 🎃 Halloween (31 Oct) — relevant to your arrival
 - **31 Oct 2026 (Saturday)** is your departure from SFO; you land in Korea on
@@ -47,14 +48,13 @@ items are confirmed or should be treated as planning cautions:
   necked alleys.
 
 ### Departure day: 22 Nov 2026 (Sunday)
-- Sunday departure. Weekend traffic is lighter on expressways than weekday
-  rush hour, but Seoul → ICN can still be busy; allow generous buffer time
-  (see `07`). No holiday on 22 Nov.
+- Sunday departure. Seoul → ICN traffic can vary; allow generous buffer time
+  (see `07`). No national public holiday is listed on 22 Nov.
 
 ## Summary table
 | Date 2026 | Day | Event | Traffic impact |
 |-----------|-----|-------|----------------|
 | 31 Oct | Sat | Halloween | Mostly affects U.S. departure; not a Korean disruption |
 | 1 Nov | Sun | **Arrive ICN 9 PM** | Late-night arrival — see transport |
-| 19 Nov | Thu | **CSAT (수능)** | High — morning traffic mgmt, English listening session: 13:10–14:20 (KICE schedule) |
+| 19 Nov | Thu | **CSAT (수능)** | Check local notices; KICE lists English 13:10–14:20 |
 | 22 Nov | Sun | **Depart Korea** | Normal weekend; allow buffer to ICN |

@@ -1,6 +1,6 @@
 # 3. Emergency Contacts — Print This Page / Save Offline
 
-Source: U.S. State Dept South Korea country page [S1]; US Embassy [S2].
+Sources: U.S. State Dept South Korea country page [S1]; U.S. Embassy [S2]; Korea Tourism Organization / VISITKOREA for 1330 [S3].
 Keep this list on your phone (saved offline) and on a paper card in your wallet.
 
 ## South Korea emergency services (dial from any phone in Korea)
@@ -20,7 +20,7 @@ Keep this list on your phone (saved offline) and on a paper card in your wallet.
 | U.S. Embassy website | https://kr.usembassy.gov |
 | U.S. State Dept from abroad | **+1-202-501-4444** |
 | U.S. State Dept from U.S./Canada | **+1-888-407-4747** |
-| U.S. Consulate, Busan | +82-51-863-0731 *(no consular services — passport/emergency handled in Seoul)* |
+| U.S. Consulate, Busan | No consular services — passport/emergency handled by U.S. Embassy Seoul |
 | STEP enrollment | https://step.state.gov |
 
 ## Tourism & general help
@@ -31,11 +31,9 @@ Keep this list on your phone (saved offline) and on a paper card in your wallet.
 
 ## Emergency medical
 - Dial **119** for ambulance.
-- **Major hospitals with international clinics** (Seoul) — verify current
-  names before travel: ask your hotel or the 1330 line for the nearest
-  international clinic. Seoul National University Hospital, Severance
-  (Yonsei), Asan Medical Center, and Samsung Medical Center are among the
-  large tertiary centers with foreigner services.
+- For hospitals or international clinics, do **not** rely on a static list in
+  this guide. Ask your hotel, 119, or the 1330 Korea Travel Helpline for the
+  nearest appropriate facility at the time you need care.
 - Save a note of your hotel's address in **Korean** to show taxi drivers
   (see `07-transportation.md`).
 

@@ -10,14 +10,14 @@ This folder contains reference material with a verification audit. Start with [`
 ## Entry & Requirements
 
 - [`01-trip-overview.md`](01-trip-overview.md) — Dates / key facts
-- [`02-entry-documents.md`](02-entry-documents.md) — K-ETA exemption through 31 Dec 2026; mandatory e-Arrival Card (submit 72 h before 1 Nov); visa not needed ≤90 days
-- [`03-emergency-contacts.md`](03-emergency-contacts.md) — **Print this** — 112 / 119 / 1366 / 1330 / +82-2-3210-0404 / U.S. Embassy Seoul +82-2-397-4114 / Busan +82-51-863-0731 (no consular services)
+- [`02-entry-documents.md`](02-entry-documents.md) — K-ETA exemption through 31 Dec 2026; mandatory e-Arrival Card (submit during official pre-arrival window); visa not needed ≤90 days
+- [`03-emergency-contacts.md`](03-emergency-contacts.md) — **Print this** — 112 / 119 / 1366 / 1330 / +82-2-3210-0404 / U.S. Embassy Seoul +82-2-397-4114 / Busan Consulate has no consular services
 
 ## Health, Weather, Safety
 
 - [`04-health-medications.md`](04-health-medications.md) — CDC vaccines; medication import rules (no cannabis/CBD; narcotics/amphetamines/benzodiazepines need MFDS approval); travel insurance
 - [`05-weather-packing.md`](05-weather-packing.md) — November weather varies by destination and date; check KMA and AirKorea; pack layers and particulate protection as appropriate
-- [`06-holidays-traffic-dates.md`](06-holidays-traffic-dates.md) — No holidays 1–22 Nov; CSAT Thu 19 Nov: morning traffic mgmt, English listening session: 13:10–14:20 (KICE schedule)
+- [`06-holidays-traffic-dates.md`](06-holidays-traffic-dates.md) — No holidays 1–22 Nov; CSAT Thu 19 Nov: check local notices; KICE lists English 13:10–14:20
 - [`07-transportation.md`](07-transportation.md) — Late-night ICN arrival: check current AREX/airport-bus timetables and fares; taxi fare rules / Kakao T / Korean address
 - [`08-safety-security.md`](08-safety-security.md) — Level 1 advisory; STEP enrollment; crowd-crush awareness (Itaewon 2022); lost passport
 
@@ -27,7 +27,7 @@ This folder contains reference material with a verification audit. Start with [`
 
 ## Verification
 
-- [`sources.md`](sources.md) — Official source register S1–S15; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
+- [`sources.md`](sources.md) — Official source register S1–S17; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
 
 ---
 

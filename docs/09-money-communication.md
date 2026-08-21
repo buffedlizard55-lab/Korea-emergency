@@ -1,6 +1,8 @@
 # 9. Money, Connectivity & Communication
 
 ## Money
+
+Sources for hard rules: ROK Ministry of Foreign Affairs customs/currency guidance [S16]. Other payment notes are practical planning advice and should be re-checked with your bank/card issuer.
 - **Currency:** South Korean won (₩ / KRW). Cash for small vendors, markets,
   some taxis; cards accepted almost everywhere else (tap/EMV widely works).
 - **Cards:** Visa/Mastercard widely accepted; AmEx less so. Notify your bank
@@ -9,7 +11,8 @@
 - **ATMs:** Global ATMs at Incheon, banks, convenience stores. Withdraw small
   amounts as needed; Korean ATMs sometimes only accept 10,000/50,000 won
   notes.
-- **Customs:** **Declare cash or equivalent ≥ US$10,000** when entering.
+- **Customs:** Passengers entering Korea carrying foreign or Korean currency
+  worth **over USD 10,000** must declare it to Customs. [S16]
 - **Tipping:** Not customary in Korea; not expected. Rounding up is
   unnecessary. Some hotels add service charge.
 - **Tax refunds (TTS):** For tax-free shopping, use the Global Blue / Korea
@@ -36,9 +39,10 @@
 | Where is the U.S. Embassy? | 미국 대사관이 어디예요? (Mi-guk dae-sa-gwan-i eo-di-ye-yo?) |
 
 ## Power & plugs
-- **220V, 60Hz, Type C / Type F** outlets.
+- U.S. Trade.gov's electric-current table lists Korea as **220/380V** and
+  **60Hz**. Check your hotel's outlet type and each device label.
 - Bring a universal adapter; most modern phone/laptop chargers are
-  dual-voltage (100–240V) and safe — verify the label.
+  dual-voltage (100–240V), but verify the label before plugging in. [S17]
 
 ## Time zone
 - **Korea Standard Time = UTC+9** (16–17 hours ahead of California, depending

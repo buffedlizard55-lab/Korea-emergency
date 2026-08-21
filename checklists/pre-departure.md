@@ -4,7 +4,7 @@ Run this **2–3 weeks before 31 Oct 2026** and again in the final week.
 ## Documents & entry
 - [ ] U.S. passports valid for the full stay (≥6 months best practice)
 - [ ] No K-ETA needed — exemption runs through 31 Dec 2026 (re-verify)
-- [ ] **Submit free e-Arrival Card** within 72 h before arrival → e-arrivalcard.go.kr
+- [ ] **Submit free e-Arrival Card** during the official pre-arrival window → e-arrivalcard.go.kr
 - [ ] Return/onward ticket + accommodation addresses on hand
 - [ ] 3 copies of docs (carry-on, main bag, secure cloud) — see 02
 - [ ] Enroll in **STEP** → step.state.gov
@@ -18,7 +18,7 @@ Run this **2–3 weeks before 31 Oct 2026** and again in the final week.
 - [ ] Travel insurance active; save 24/7 emergency line + policy number
 
 ## Gear & packing
-- [ ] Layers for 2–12 °C weather; warm jacket, scarf, gloves, beanie
+- [ ] Layers for variable November weather; warm jacket, scarf, gloves, beanie
 - [ ] KF94/N95 masks (fine dust)
 - [ ] Basic first-aid kit + personal meds
 - [ ] Universal adapter (Type C/F, 220V)
