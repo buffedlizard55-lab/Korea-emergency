@@ -23,7 +23,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 > **15 Nov**. There is **no Daejeon/Cheonan leg**. `docs/10-itinerary-day-plan.md` is **superseded**
 > and kept only for audit.
 
-## 🆕 Emergency resources — 60 verified entries (3 sets)
+## 🆕 Emergency resources — 180 verified entries (9 sets)
 
 > **[`docs/12-…`](docs/12-seoul-busan-emergency-resources.md) (N1–N20)** — Emergency Ready App, Baro
 > reporting app, Safe Korea, **1339 / 1345 / 182 / 1577-1366**, E-Gen, Busan emergency-medical guide,
@@ -44,9 +44,47 @@ An emergency-preparedness repo with a conservative verification audit for your t
 > Embassy lost-passport procedure, U.S. Consulate Busan (no consular services), CDC vaccine logic,
 > MOIS Emergency Ready language spec, **Coast Guard SAR contacts (119 at sea)**.
 >
+> **[`docs/17-…`](docs/17-seoul-busan-emergency-resources-set4.md) (N61–N80)** — **ICN Emergency
+> Contacts** (help desk **1577-2600** still listed open 07:00–22:00 — your 21:00 arrival), **1366
+> Women's Emergency** (Seoul 02-1366 / Busan 051-1366; distinct from Danuri), **132** legal aid,
+> **1372** consumer, **1394** counter-scam, **118** KISA cyber (hacking 24/7), KNPA English
+> directory, **1331** human-rights + **NHRCK Busan office**, **Safe Korea English**
+> (`eng.safekorea.go.kr`) alerts and shelter maps, Embassy preparedness (20 May 2026) + ACS no
+> walk-ins, Visit Seoul TICs (ICN / Myeong-dong / Itaewon / Dongdaemun) and red-uniform walking
+> guides, **Hi Korea**, official Immigration **1345** language/ARS list, MOIS "only 112/119/110".
+>
 > ⚠️ **1339 is the infectious-disease line, not an ambulance.** Ambulance is **119**.
 > ⚠️ **122 (maritime) no longer exists** — merged into **119**. Relevant to Busan's coast.
 > ⚠️ **lost112.go.kr is dead** — merged into **minwon24.police.go.kr** on 26 Jan 2026 (IRR-10).
+>
+> **[`docs/18-…`](docs/18-seoul-busan-emergency-resources-set5.md) (N81–N100)** — **NHIS 1577-1000**
+> foreign-language line, **1350** labour, digital-sex-crime centres (Seoul **02-815-0382** / Busan
+> **051-802-2081**), Sunflower Center 365/24, Embassy **emergency cash / OCS Trust** and **victims
+> of crime** (ACS will not pay fees), Seoul **N-bus 00:00–04:00**, T-money / no Apple Pay, transfer
+> window 30 min (1 hour after 21:00), taxi **빈차/예약** + **02-120** complaints + **Ansimi** panic
+> button, **Climate Card 30-day dies 31 Aug 2026**, T-Luggage to ICN, **kstay lodging report stopped
+> 2 Nov 2025**.
+>
+> **[`docs/19-…`](docs/19-seoul-busan-emergency-resources-set6.md) (N101–N120)** — **126** tax,
+> **1644-2000** HIRA + hospital/ER map, Embassy **arrest / lawyers (Jul 2026) / death-CRODA /
+> same-day emergency passport**, KCG English mission, **119.go.kr** + **119 안심콜** + **Busan Fire
+> HQ**, SES–Global Entry desks at **ICN / Gimhae / Seoul Station / Busan**, Ttareungi **1599-0120**.
+>
+> **[`docs/20-…`](docs/20-seoul-busan-emergency-resources-set7.md) (N121–N140)** — **107** sign-language
+> relay (119 three-way), **125** Customs, Seoul Metro accessibility + station sign-language phones,
+> **02-1800-9008** / TIAC, Embassy **notary $50** + **Ilyang (02) 3277-9453** + ACS fee card +
+> building security, **Hangang Bus** last boats, civil-defense shelter drill, IDP / driving.
+>
+> **[`docs/21-…`](docs/21-seoul-busan-emergency-resources-set8.md) (N141–N160)** — **Gimhae Airport**
+> 1661-2626 / L&F / hospital / immigration / customs / pharmacies, Hangang **119 Water Rescue + AED**
+> + **1330** at the river, KMA warning types + PEWS earthquake actions, **112 SMS / 112 app**,
+> Embassy marriage/dual-citizen/vital-records limits, Korail **delay certificate**, ICN **power-bank
+> + liquids** rules (from 20 Apr 2026), **tiac.or.kr** live hours, Coast Guard HQ **+82-32-835-2000**.
+>
+> **[`docs/22-…`](docs/22-seoul-busan-emergency-resources-set9.md) (N161–N180)** — ICN Immigration
+> **032-740-7391~2 / 7361~2**, SES no-pre-reg for short-stay 17+, ICN departure fees, Hangang
+> **Nanji 02-3780-0611** / Yeouido 8 AEDs / drone **112·1338** / no-swim Jamsil→Gwangnaru, MOFA
+> **0404 24/7 ARS**, Humetro **1544-5005**, Embassy ballot drop, Safe Korea AED map.
 >
 > Review log: **[`docs/13-irregularities-2026-08-21.md`](docs/13-irregularities-2026-08-21.md)**
 
@@ -128,7 +166,13 @@ superseded and kept for audit only (IRR-1, IRR-18).*
 - [`docs/07-transportation.md`](docs/07-transportation.md) — Late-night ICN, AREX (now airportrailroad.com) / night bus / taxi + night surcharge, Kakao T
 - [`docs/08-safety-security.md`](docs/08-safety-security.md) — Level 1, STEP, crowd-crush (Itaewon 2022), lost passport
 - [`docs/09-money-communication.md`](docs/09-money-communication.md) — Cash, SIM / eSIM, phrases, adapters
-- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S75** — official links reviewed 21–22 Aug 2026
+- [`docs/17-seoul-busan-emergency-resources-set4.md`](docs/17-seoul-busan-emergency-resources-set4.md) — **Entries N61–N80** (4th pass): ICN emergency table, 1366 / 132 / 1372 / 1394 / 118 / 1331, Safe Korea English, Embassy preparedness + ACS, Seoul TICs, Hi Korea, official 1345
+- [`docs/18-seoul-busan-emergency-resources-set5.md`](docs/18-seoul-busan-emergency-resources-set5.md) — **Entries N81–N100** (5th pass): NHIS 1577-1000, 1350, digital-sex-crime / Sunflower, Embassy cash + victims of crime, Seoul N-bus / T-money / taxi / Ansimi / Climate Card / T-Luggage, kstay stopped
+- [`docs/19-seoul-busan-emergency-resources-set6.md`](docs/19-seoul-busan-emergency-resources-set6.md) — **Entries N101–N120** (6th pass): 126, HIRA 1644-2000 + ER map, Embassy arrest / lawyers / death / emergency passport, KCG, 119.go.kr / 안심콜 / Busan Fire HQ, SES-GE, Ttareungi 1599-0120
+- [`docs/20-seoul-busan-emergency-resources-set7.md`](docs/20-seoul-busan-emergency-resources-set7.md) — **Entries N121–N140** (7th pass): 107, 125, Metro accessibility, 1800-9008 / TIAC, Embassy notary / Ilyang / fees / security / driving, Hangang Bus, civil-defense drill
+- [`docs/21-seoul-busan-emergency-resources-set8.md`](docs/21-seoul-busan-emergency-resources-set8.md) — **Entries N141–N160** (8th pass): Gimhae Airport contacts, Hangang 119 Water Rescue / 1330, KMA warnings + PEWS, 112 SMS/app, Embassy marriage/dual/vital-records, Korail delay certificate, ICN power-bank + liquids, tiac.or.kr, KCG HQ
+- [`docs/22-seoul-busan-emergency-resources-set9.md`](docs/22-seoul-busan-emergency-resources-set9.md) — **Entries N161–N180** (9th pass): ICN Immigration / SES / departure fees, Hangang Nanji/Yeouido / drone 112·1338, MOFA 0404 ARS, Humetro 1544-5005, Embassy ballot, Safe Korea AED map
+- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S165** — official links reviewed 21–22 Aug 2026
 
 ### 🖨️ Printable / Offline
 - [`print/emergency-card.pdf`](print/emergency-card.pdf) — One-page wallet card (romanized; no Korean fonts available in workspace)
@@ -145,7 +189,7 @@ superseded and kept for audit only (IRR-1, IRR-18).*
 | **112** | Police | S1 / S2 |
 | **119** | Ambulance / Fire / Rescue — **also by SMS/MMS, video call, app, 119.go.kr** | S1 / S2 / S67 |
 | **109** | Mental-health crisis line — 24/7, confidential | S68 |
-| **1366** | Domestic-violence hotline | S1 |
+| **1366** | Women's emergency (DV / sexual violence / stalking) — Seoul **02-1366** · Busan **051-1366** | S1 / S77 |
 | **1330** | Korea Travel Helpline — **English 24/7**; from overseas `+82-2-1330` | S3 |
 | **+82-2-3210-0404** | Korea Emergency Call Center — request English operator | S1 |
 | **+82-2-397-4114** | **U.S. Embassy Seoul — 24/7** | S1 / S2 |
@@ -156,6 +200,11 @@ superseded and kept for audit only (IRR-1, IRR-18).*
 | [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) | **Mandatory e-Arrival Card** | S7 |
 | [`k-eta.go.kr`](https://www.k-eta.go.kr) | K-ETA (not needed through 31 Dec 2026) | S8 |
 | [`minwon24.police.go.kr`](https://minwon24.police.go.kr/main.do) | National police **lost-property portal** (replaced lost112.go.kr, 26 Jan 2026) | S56 |
+| **1366** | Women's emergency (DV / sexual violence / stalking) — Seoul **02-1366** · Busan **051-1366** | S77 |
+| **1394** | National Counter Scam Bureau (voice phishing) | S80 / S82 |
+| **118** | KISA cyber / hacking / smishing — hacking emergencies 24/7 | S81 |
+| **1577-2600** | ICN help desk T1/T2 (07:00–22:00) | S76 |
+| [`eng.safekorea.go.kr`](https://eng.safekorea.go.kr/safekorea-eng/main/main.do) | Safe Korea **English** alerts + shelter / fire / police / ER maps | S84 |
 
 > **Emergency channel:** For U.S. citizen emergencies, call **+82-2-397-4114 24/7**. Use [`kr.usembassy.gov`](https://kr.usembassy.gov) for current non-emergency contact options.
 

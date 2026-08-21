@@ -10,9 +10,12 @@ Arrive ICN **Sun 1 Nov ~9 PM** · Depart **Sun 22 Nov**
 
 ### Dial
 - **112** Police
-- **119** Ambulance / Fire
-- **1366** Domestic-violence hotline
+- **119** Ambulance / Fire / Rescue (also sea)
+- **1366** Women's emergency 24/7 (Seoul 02-1366 · Busan 051-1366)
 - **1330** Korea Travel Helpline (English 24/7)
+- **1577-2600** ICN help desk (07:00–22:00)
+- **1394** Voice-phishing / scam bureau (also 112 if money is moving)
+- **118** Cyber / hacking (hacking emergencies 24/7)
 - **+82-2-3210-0404** Emergency Call Center (intl callers, ask for English)
 
 ### U.S. Embassy Seoul (24/7)
