@@ -1,7 +1,7 @@
 # Medical & Emergency Translation Card — Korean Phrases for Both Travelers
 
-> Print 2 copies (one per traveler, one for each bag).  
-> **Romanization** is approximate — show the **Korean (Hangul)** first if possible; use **Naver Papago** app for voice translation in real time.  
+> Print 2 copies (one per traveler, one for each bag).
+> **Romanization** is approximate — show the **Korean (Hangul)** first if possible; use **Naver Papago** app for voice translation in real time.
 > **Source:** Practical translations for communication; not official emergency-service wording. Verify important medical terms with a qualified translator.
 
 ---
@@ -40,7 +40,7 @@
 | **1330** | Korea Travel Helpline (English 24/7; +82-2-1330 from overseas) |
 | **+82-2-3210-0404** | Korea Emergency Call Center — request English operator |
 | **+82-2-397-4114** | U.S. Embassy Seoul — 24/7 emergency |
-| **+82-51-863-0731** | U.S. Consulate Busan — **no consular services**; use Seoul |
+| U.S. Consulate Busan | **No consular services**; use U.S. Embassy Seoul for passport / emergency assistance |
 
 ---
 

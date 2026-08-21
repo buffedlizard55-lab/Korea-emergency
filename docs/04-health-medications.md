@@ -15,9 +15,9 @@ CDC travel-vaccine guidance for South Korea:
 | **Japanese encephalitis** | Higher risk **May–Oct**; lower for a November trip, but consider if rural outdoor activities |
 | **Rabies** | Consider if hiking/extended rural stay or animal contact |
 
-- **No mandatory vaccinations** to enter Korea, and **no COVID-19 test or
-  quarantine requirement** currently. Re-check the CDC page close to
-  departure. [S6]
+- CDC lists **yellow fever vaccine as not required** for South Korea. Re-check
+  CDC and official Korean entry-health rules close to departure because health
+  screening rules can change. [S6]
 
 ## Food & water safety [S6]
 - Tap water in Korea is generally treated and considered potable, but most

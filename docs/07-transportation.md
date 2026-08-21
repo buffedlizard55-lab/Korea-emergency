@@ -7,7 +7,7 @@ Getting to Seoul late at night (your **#1 arrival concern**):
 
 | Option | Service / timing | Fare | Notes |
 |--------|------------------|------|-------|
-| **AREX Express Train** (Incheon → Seoul Station) | Timetable varies by day/terminal. The current AREX timetable lists the final T1 Express departure at 22:48, arriving Seoul at 23:31; travel is 43 min from T1 / 51 min from T2. | Check the current AREX fare page before purchase. | Check the official timetable before relying on this option. |
+| **AREX Express Train** (Incheon → Seoul Station) | Timetable varies by day/terminal. AREX publishes current Express and All Stop train times; do not rely on a static last-train time in this guide. | Check the current AREX fare page before purchase. | Check the official timetable before relying on this option. |
 | **Airport night bus** | Incheon Airport publishes current routes, terminals, fares, and times. N6001 serves Seoul Station; N6000 serves Gangnam. | Check the official ICN page before boarding. | Service and stops are subject to change. |
 | **Taxi / Kakao Taxi** | Taxis operate 24/7, subject to availability. | Varies by taxi type, route, tolls, and surcharges. Seoul publishes late-night surcharge rules; verify current rules. | Use Kakao T or the meter. |
 
@@ -15,10 +15,9 @@ Getting to Seoul late at night (your **#1 arrival concern**):
 fast; otherwise grab a **night bus (N6000/N6001)** or a **taxi**. Have your
 hotel address written in **Korean** for drivers (see below).
 
-> International transit (immigration + baggage) can take 45–90 min after
-> landing, so realistically expect to be wheels-out of the terminal around
-> 10:15–10:45 PM. The AREX last train is a real constraint — don't bet the
-> trip on it.
+> Immigration, baggage, and customs timing varies by flight, terminal, staffing,
+> and baggage delivery. Treat the AREX last train as date-sensitive and check the
+> official timetable before relying on it.
 
 ## Around the city
 - **T-money / Cashbee transit card:** rechargeable card for subway + buses;
@@ -34,10 +33,11 @@ hotel address written in **Korean** for drivers (see below).
   Korea for transit directions. Download offline maps before you go.
 
 ## Long-distance (if you leave Seoul)
-- **KTX high-speed rail:** Seoul → Busan ~2h20m, Seoul → Gyeongju, etc.
-  Book on Korail (let's Korail / 코레일). Reliable, comfortable.
+- **KTX high-speed rail:** For intercity rail times and tickets, check Korail
+  / LetsKorail directly before booking. Do not rely on static travel-time
+  estimates in this guide.
 - **Domestic flights** (e.g., to Jeju): short hops from Gimpo (GMP) or
-  Incheon. Remember the CSAT English listening session: 13:10–14:20 (KICE schedule) on **19 Nov**.
+  Incheon. Remember that KICE lists the CSAT English session at 13:10–14:20 on **19 Nov**.
 
 ## To ICN on departure (Sun 22 Nov)
 - Recommend **3 hours** before international departure at ICN.
