@@ -29,15 +29,16 @@ This folder contains reference material with a verification audit. Start with [`
 
 - [`15-itinerary-corrected-seoul-busan-seoul.md`](15-itinerary-corrected-seoul-busan-seoul.md) — **Seoul 1–9 Nov · Busan 9–15 Nov · Seoul 15–22 Nov**; CSAT 19 Nov is a **Seoul** day; KTX 9 Nov & 15 Nov. **Supersedes `10-itinerary-day-plan.md`.**
 
-## Seoul & Busan Emergency Resources (added 21 Aug 2026)
+## Seoul & Busan Emergency Resources (60 verified entries, 3 sets)
 
+- [`16-seoul-busan-emergency-resources-set3.md`](16-seoul-busan-emergency-resources-set3.md) — **Entries N41–N60** (added 3rd pass, 21–22 Aug 2026): 119 text/video reporting, 109 crisis line, 129 / 1399 / 110, **LOST112 → 경찰민원24 merger**, Seoul Metro 1577-1234 lost & found, Korail +82-1599-7777, AREX moved to airportrailroad.com + its lost & found center, ICN late-night buses, Seoul Dasan 120 language codes, Seoul late-night pharmacies, Busan beaches off-season (no lifeguards in Nov), AirKorea English, U.S. Embassy lost-passport procedure, U.S. Consulate Busan (no consular services), CDC vaccine/malaria guidance, MOIS Emergency Ready app language spec, Coast Guard SAR contacts (119 at sea)
 - [`14-seoul-busan-emergency-resources-set2.md`](14-seoul-busan-emergency-resources-set2.md) — **Entries N21–N40**: Safety e-Report, e-People, 1330 complaints, Busan 112/119 guidance, typhoon & water safety, apartment fire manual, Seoul Global Center, Seoul Foreign Resident Center, Visit Seoul tourist police, Korea Customs currency rule, 2026 holidays, e-Arrival scam warning, KMA earthquake DB, weather 131, Korail
 - [`12-seoul-busan-emergency-resources.md`](12-seoul-busan-emergency-resources.md) — **20 verified new entries** for Seoul and Busan: Emergency Ready App, Baro reporting app, Safe Korea, 1339 / 1345 / 182 / 1577-1366, E-Gen, Busan emergency medical guide, Busan international hospitals, Haeundae Paik Hospital, night-pharmacy finder, Busan 120 / 1600-0051, Busan earthquake guides, Humetro lost & found
-- [`13-irregularities-2026-08-21.md`](13-irregularities-2026-08-21.md) — **Review log / flagged irregularities** — itinerary mismatch, 1339 misuse risk, obsolete 122, broken source links, unverified claims
+- [`13-irregularities-2026-08-21.md`](13-irregularities-2026-08-21.md) — **Review log / flagged irregularities (3 passes)** — itinerary mismatch (and README fix, IRR-18), 1339 misuse risk, obsolete 122, **LOST112→경찰민원24 merger (IRR-10)**, AREX site move, KMA link rot, Busan consulate page restored, official-vs-official conflicts
 
 ## Verification
 
-- [`sources.md`](sources.md) — Official source register S1–S55; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
+- [`sources.md`](sources.md) — Official source register S1–S75; official links reviewed 21–22 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
 
 ---
 

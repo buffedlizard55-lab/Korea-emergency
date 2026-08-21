@@ -1,7 +1,7 @@
 # 11. Emergency Scenario Guide — What to Do When Unplanned Things Happen
 
 > **For:** Two U.S. citizens (1 male / 1 female), California → Seoul 31 Oct – 22 Nov 2026
-> **Sources:** Official contacts and links are in S1–S55. Scenario steps combine official emergency contacts with general safety recommendations; they are not legal, medical, insurance, or hotel-policy guarantees.
+> **Sources:** Official contacts and links are in S1–S75 (`docs/sources.md` plus sets 1–3). Scenario steps combine official emergency contacts with general safety recommendations; they are not legal, medical, insurance, or hotel-policy guarantees.
 > **Use with:** `docs/10-itinerary-day-plan.md`, `checklists/offline-emergency-card.md`, `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`
 
 ---

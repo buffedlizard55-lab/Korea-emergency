@@ -136,3 +136,36 @@ A few non-`.gov`/`.go.kr` pages (weather climatology, airport-transfer
 roundups) were used **only** for cross-checking numbers; every safety-critical
 item traces to an official source above. Where numbers differed, the official
 source was used.
+
+## Sources added in the 3rd pass, 21–22 Aug 2026 (set 3 — `docs/16`)
+
+All were opened and read (live fetch) on 21–22 Aug 2026 unless noted "official-domain index".
+
+| # | Source | URL |
+|---|--------|-----|
+| S56 | National Police Agency — 경찰민원24 (Police Minwon 24) portal; lost-property service that replaced LOST112 (merger 26 Jan 2026) | https://minwon24.police.go.kr/main.do |
+| S57 | AREX corporate site — carries the customer-service migration notice (and the lost112→minwon24 merger notice) | https://www.arex.or.kr/main.do |
+| S58 | AREX customer portal (timetables, fares, tickets, delay certificates) — service moved here from arex.or.kr | https://www.airportrailroad.com/main |
+| S59 | AREX Lost & Found Center (Geomam Station Exit 1, 06:30–23:00, 1599-7788, ID required) | https://www.airportrailroad.com/customer/lost |
+| S60 | Seoul Metro — official English FAQ (emergency phones, 1577-1234, per-line lost & found centers) | http://www.seoulmetro.co.kr/en/page.do?menuIdx=716 |
+| S61 | Seoul Metropolitan Government — Contact Us (Dasan 120 numbers, hours, language codes) | https://english.seoul.go.kr/seoul-policy-archive-contact-us/ |
+| S62 | Seoul Metropolitan Government — 공공심야약국 (public late-night pharmacies; updated 19 Aug 2026) | https://news.seoul.go.kr/welfare/archives/567003 |
+| S63 | Busan Metropolitan City — Haeundae Beach official page (2026 season 26 Jun–15 Sep; service office) | https://www.busan.go.kr/eng/beaches/1325815 |
+| S64 | Busan Metropolitan City — beach-closure press release (post-closure safety posture; 119 citizen lifeguard team) | https://www.busan.go.kr/eng/ai-translated-press-releases/1696268 |
+| S65 | Korail — official English passenger guide, Lost & Found / carry-on items (EN line +82-1599-7777) | https://www.korail.com/global/eng/passengerGuide/info/otherInfo |
+| S66 | Korail — Korean FAQ (철도고객센터 1544-7788 / 1588-7788; official-domain index) | https://info.korail.com/info/selectBbsNttList.do?key=817&bbsNo=205 |
+| S67 | korea.kr (government policy briefing) — 119 multi-channel reporting (app / SMS-MMS / video call / 119.go.kr) | https://www.korea.kr/news/policyNewsView.do?newsId=148931185 |
+| S68 | korea.kr (government policy briefing) — 109 suicide-prevention line: 24/7, confidential; unified 1393 + 8 hotlines since Jan 2024 | https://www.korea.kr/news/policyNewsView.do?newsId=148954797 |
+| S69 | Ministry of Health & Welfare — 129 call center (free; policy counseling weekday 09:00–18:00, urgent-support counseling 24h; official-domain index) | https://www.mohw.go.kr/board.es?mid=a10503010100&bid=0027&tag=&act=view&list_no=35710&cg_code= |
+| S70 | MFDS — food-safety consumer reporting 1399 (weekdays 09:00–18:00) + 종합상담실 1577-1255 (official-domain index) | https://mfds.go.kr/wpge/m_46/de010406l001.do |
+| S71 | MOIS — 안전디딤돌 app page incl. Emergency Ready App language spec (alerts EN/CN/VI/TH/JP); footer verifies 110 line | https://www.mois.go.kr/frt/sub/a06/b11/safetyStep/screen.do |
+| S72 | ROK AIP GEN 3.6 Search and Rescue (KOCA) — NFA inland / KCG at sea; 119 nationwide; RCC contact table incl. South RCC +82-51-663-2142 | https://aim.koca.go.kr/eaipPub/Package/2025-02-19-AIRAC/html/eAIP/KR-GEN-3.6-en-GB.html |
+| S73 | U.S. Embassy Seoul — LOST/STOLEN/DAMAGED PASSPORT procedure (DS-11 + DS-64, police report, $165 adult, appointment only; page dated 13 Apr 2026) | https://kr.usembassy.gov/services-lost-stolen-damaged-passport/ |
+| S74 | U.S. Consulate Busan — location, hours, "does not conduct consular services", duty officer 02-397-4114 | https://kr.usembassy.gov/busan/ |
+| S75 | Incheon International Airport — Late-night bus page (N6000/N6001/N6002/N6701/N6703 routes, stops, fares; English page not renderable live — official-domain index; see IRR-12) | https://www.airport.kr/ap_lp/en/tpt/pblctpt/pblctpt1/sunight/sunight.do |
+
+Existing sources re-used by set 3: S1 (State Dept advisory — Busan consulate phone/email), S6 (CDC
+destination page, re-read live: measles Level 1 notice; malaria limited to northern rural
+Incheon/Gangwon/Gyeonggi Mar–Dec), S13/S14 (AirKorea English live; ICN news posts). S15 (arex.or.kr
+timetable portal) is **superseded by S58** per IRR-11; S54 sits on an unmanaged KMA path (IRR-13) —
+re-verify before departure.

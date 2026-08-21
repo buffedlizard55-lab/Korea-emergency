@@ -271,3 +271,124 @@ repo was right to remove it. Verify with the airline/airport if you fly on 19 No
 
 *Reviewed twice, 21 Aug 2026. No claim in this file is asserted without a link that was opened, or an
 explicit "unverified" label.*
+
+---
+
+# 3rd pass — 20 new entries (N41–N60), 21–22 Aug 2026
+
+Set 3 is [`docs/16-seoul-busan-emergency-resources-set3.md`](16-seoul-busan-emergency-resources-set3.md).
+Same rule: only official sources; failures stay here. New irregularities are numbered IRR-10+.
+("21–22 Aug": the pass ran 21 Aug UTC; Korean pages showed 22 Aug KST clocks during fetches — this
+also retroactively explains the "22 Aug 2026" stamp in N38.)
+
+## 🔴 IRR-10 — LOST112 is dead; merged into 경찰민원24 (Police Minwon 24) on 26 Jan 2026 — RESOLVES the IRR-9 mystery
+
+- `lost112.go.kr` again returned **HTTP 500** this pass. **That is not an outage — the service was
+  migrated.** AREX's official lost-property page states: "'26.1.26.일부터 LOST112가 **경찴민원24**로
+  통합 운영됩니다" ([airportrailroad.com/customer/lost](https://www.airportrailroad.com/customer/lost)).
+- The old portal itself carries the closing notice (read via the official `lost112.go.kr` domain in
+  the search index): "2026년 1월 26일부터 LOST112 서비스가 **경찴민원24**로 통합됩니다 … 도메인:
+  **minwon24.police.go.kr** … 오픈일: 2026년 1월 26일 오전 9시."
+- `minwon24.police.go.kr` is **live** and carries 분실물신고 / 습득물검색 (report lost / search found
+  items). Korean-language interface.
+- ⚠️ **Stale official pages still point to LOST112:** Seoul Metro's English FAQ (N47 source) and
+  Korail's English/Japanese/Korean guides (N48 source) all still print `www.lost112.go.kr`. They are
+  official but outdated on this one point. **Use minwon24.police.go.kr.**
+
+## 🟠 IRR-11 — AREX's customer-facing site moved to airportrailroad.com (S15 outdated)
+
+- `arex.or.kr/main.do` still loads, but it is now the **corporate** site and posts a
+  service-migration notice ("공항철도 회원통합 및 서비스 이전 안내") linking the customer portal to
+  **`airportrailroad.com`** — where timetables, fares, tickets, real-time trains, delay certificates
+  and lost & found now live.
+- `docs/sources.md` S15 describes arex.or.kr as the "official timetable and fare portal" — **update
+  done in the source register this pass** (S58 added); anyone using the old deep links
+  (`content.do?menuNo=MN2015…&clientLocale=en_US` in `docs/verification-audit.md`) may hit dead
+  pages. The AREX notices also show a **2026 을지연습 (Ulchi civil-defense exercise) notice for
+  18–21 Aug 2026** — before your trip; context only.
+- AREX site is Korean-first with a language switcher (EN/CN/JP present in the selector).
+
+## 🟡 IRR-12 — ICN late-night bus page: still unreachable live; fare numbers conflict by direction
+
+- The official English URL (S14) **still redirects to a Korean intro page** when fetched live, as in
+  the 1st pass. The route/stop/fare table was recovered via the official `airport.kr` domain in the
+  search index and is now entry **N51** — but treat it as "re-open before use."
+- **Fare conflict:** the current page lists **₩17,000–18,000 adult for airport→Seoul** N-buses,
+  while 2024–25 airport notices list **₩10,000 adult for Seoul→airport**. Both can be true
+  (direction-dependent pricing), but it means **no fare should be memorized** — confirm at the
+  airport desk.
+
+## 🟡 IRR-13 — KMA English `/eng/` pages serve an error notice (extends IRR-7)
+
+- `kma.go.kr/eng/weather/kma_service/introduction.jsp` (Earthquake/Tsunami/Volcano service page)
+  returned KMA's generic "service disruption" notice, which states KMA only operates
+  `weather.go.kr/w/`-prefix pages since 2021.
+- Consequence: **S54** (`kma.go.kr/eng/biz/public_04.jsp`, the 131 Weather Call Center page used by
+  N39) sits on an unmanaged path pattern — **re-verify before relying on it**. The 131 number itself
+  is independently confirmed by the notice page's own footer ("기상 관련 문의: 기상콜센터(131)").
+  English KMA content remains at **`kma.go.kr/neng`** (IRR-7 / N28).
+- No KMA earthquake/tsunami entry was added to set 3 for this reason — the Korean database (N38)
+  and Busan's English guides (N19/N25) remain the cited tools.
+
+## 🟡 IRR-14 — Seoul Metro lines 6–7 lost & found: official says Wangsimni, blogs say Taereung
+
+- Seoul Metro's official English FAQ lists the **Lines 6·7 center at Wangsimni (02-6311-6766/6767)**.
+  Several third-party guides put it at Taereung station. **The official page wins** (N47 quotes it).
+  Recorded so nobody "fixes" the entry using a blog.
+
+## 🟡 IRR-15 — Busan's own English pages disagree on the 2026 beach season (irrelevant to November, but flagged)
+
+- Haeundae's official page: season **26 Jun – 15 Sep 2026**, 09:00–18:00 (N54).
+- A Busan English news item: season extension, beaches open **1 Jun – 30 Sep**.
+- **Every version ends before October**, and the city's closure notice describes the post-season
+  posture as patrols + discouraging swimming. For 9–15 Nov: **no lifeguards, treat the sea as
+  dangerous** (see water-safety guide N26).
+
+## 🟡 IRR-16 — Seoul's night-pharmacy page disagrees with itself (40 vs 38)
+
+- The official page (updated 19 Aug 2026) headline says **40 locations in 25 districts**, while the
+  operating-list line says **38 pharmacies in 24 districts**. Internal inconsistency on an official
+  page. Practical rule the page itself prints: **전화확인 후에 방문 — call before visiting** (N53).
+
+## 🟢 IRR-17 — RESOLVED: kr.usembassy.gov/busan/ now loads (IRR-7's 404 finding no longer reproduces)
+
+- The Consulate Busan page is live with current detail: Lotte Gold Rose Building 6F, #993
+  Jungang-daero, Busanjin-gu; Mon–Fri 08:30–12:30 / 13:00–17:00; **"The Consulate does not conduct
+  consular services"**; after-hours = Embassy duty officer (02) 397-4114 (entry **N57**). State Dept
+  advisory adds phone +82-51-863-0731, email BusanConsulate@state.gov.
+
+## 🔴 IRR-18 — README.md still carried the superseded itinerary after IRR-1 was "resolved" — FIXED THIS PASS
+
+- IRR-1 was closed by adding `docs/15`, but **`README.md` was never edited**: its TOP-5 still said
+  CSAT "inside your Busan stay", the trip-timeline table still showed the Daejeon/Cheonan phase and
+  Busan 13–20 Nov, and the final checklist still listed KTX bookings for 8/13/20 Nov — all wrong
+  for the stated trip (Seoul 1–9 · Busan 9–15 · Seoul 15–22; KTX 9 & 15 Nov; CSAT 19 Nov = Seoul day).
+- **Fixed 21–22 Aug 2026:** README TOP-5 item, timeline table, and KTX checklist lines now match
+  `docs/15`. The fix is noted here rather than silently overwritten, per the audit convention.
+- `docs/10` remains superseded-by-design (audit record). `docs/01-trip-overview.md` was checked and
+  already describes the corrected city split.
+
+## Status summary after the 3rd pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-9 (update) | Lost112 unreachable | ✅ **Explained & superseded** — merged into 경찴민원24 on 26 Jan 2026 (IRR-10); Seoul Metro 1577-1234 **verified** (N47); Seoul Dasan 120 hours **verified** (N52); Busan beach lifeguard season **verified closed in Nov** (N54); AREX **verified** via new customer site (N49); ICN night buses **verified with live-page caveat** (N51) |
+| IRR-10 | LOST112 → 경찴민원24 migration | ✅ Documented (N46); stale links on official operator pages flagged |
+| IRR-11 | AREX site migration | ✅ Documented (N49/N50); source register updated (S58/S59) |
+| IRR-12 | ICN English page + fare direction conflict | 🟡 Open — use N51 with "confirm at airport" rule |
+| IRR-13 | KMA `/eng/` link rot incl. S54 | 🟡 Open — use `/neng`; re-verify 131 page before departure |
+| IRR-14 | Metro 6·7 lost&found location | ✅ Settled per official page (N47) |
+| IRR-15 | Busan beach season discrepancy | ✅ Immaterial for November (N54) — flagged for the record |
+| IRR-16 | Seoul night-pharmacy 40-vs-38 count | 🟡 Open — follow the page's "call first" rule (N53) |
+| IRR-17 | Busan consulate page 404 | ✅ Resolved — page live (N57) |
+| IRR-18 | README retained superseded itinerary | ✅ Fixed this pass |
+
+## Remaining open items (cumulative)
+
+1. **IRR-2b** — Visit Seoul still labels 1339 "Emergency Medical Information Center"; ambulance = **119**.
+2. **IRR-5** — passport validity: keep "6 months" labelled as caution, not a Korean rule.
+3. **IRR-12** — ICN English late-night bus page not renderable in this environment; fares are
+   direction-dependent — confirm at the airport.
+4. **IRR-13** — KMA `/eng/…` pages (incl. S54/131 page) sit on unmanaged paths; use `/neng` and
+   re-verify before departure.
+5. **IRR-16** — Seoul night-pharmacy count discrepancy on the official page; call before visiting.
