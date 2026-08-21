@@ -4,7 +4,7 @@ Run this **2–3 weeks before 31 Oct 2026** and again in the final week.
 ## Documents & entry
 - [ ] U.S. passports valid for the full stay (≥6 months best practice)
 - [ ] No K-ETA needed — exemption runs through 31 Dec 2026 (re-verify)
-- [ ] **Submit free e-Arrival Card** within 72 h of landing → e-arrivalcard.go.kr
+- [ ] **Submit free e-Arrival Card** within 72 h before arrival → e-arrivalcard.go.kr
 - [ ] Return/onward ticket + accommodation addresses on hand
 - [ ] 3 copies of docs (carry-on, main bag, secure cloud) — see 02
 - [ ] Enroll in **STEP** → step.state.gov
@@ -31,5 +31,5 @@ Run this **2–3 weeks before 31 Oct 2026** and again in the final week.
 - [ ] Confirm plan for late-night arrival transport (AREX/night bus/taxi) — 07
 
 ## Traffic/holiday awareness
-- [ ] Note **CSAT 19 Nov** — build in time; avoid ~1 PM flights that day (06)
+- [ ] Note **CSAT 19 Nov** — build in time; check airline/airport notices before booking a flight that day (06)
 - [ ] Confirm no holiday conflicts (none in 1–22 Nov window)

@@ -1,6 +1,6 @@
 # Documentation — South Korea Emergency Kit
 
-This folder contains all verified reference material. Start with [`README.md` at repo root](../README.md) for the landing page, quick-start, and links to everything here.
+This folder contains reference material with a verification audit. Start with [`README.md` at repo root](../README.md) for the landing page, quick-start, and links to everything here.
 
 ## Trip Plan & Day Plan
 
@@ -16,9 +16,9 @@ This folder contains all verified reference material. Start with [`README.md` at
 ## Health, Weather, Safety
 
 - [`04-health-medications.md`](04-health-medications.md) — CDC vaccines; medication import rules (no cannabis/CBD; narcotics/amphetamines/benzodiazepines need MFDS approval); travel insurance
-- [`05-weather-packing.md`](05-weather-packing.md) — Nov avg ~11–12 °C / 2–3 °C low; 5–7 rainy days; possible snow late month; fine-dust / AQI; pack KF94/N95
-- [`06-holidays-traffic-dates.md`](06-holidays-traffic-dates.md) — No holidays 1–22 Nov; CSAT Thu 19 Nov: morning traffic mgmt, ~1:05–1:40 PM aviation hold
-- [`07-transportation.md`](07-transportation.md) — Late-night ICN arrival: AREX last ~23:32 / night bus N6000/N6001 / taxi night surcharge +40% 11 PM–2 AM / Kakao T / Korean address
+- [`05-weather-packing.md`](05-weather-packing.md) — November weather varies by destination and date; check KMA and AirKorea; pack layers and particulate protection as appropriate
+- [`06-holidays-traffic-dates.md`](06-holidays-traffic-dates.md) — No holidays 1–22 Nov; CSAT Thu 19 Nov: morning traffic mgmt, English listening session: 13:10–14:20 (KICE schedule)
+- [`07-transportation.md`](07-transportation.md) — Late-night ICN arrival: check current AREX/airport-bus timetables and fares; taxi fare rules / Kakao T / Korean address
 - [`08-safety-security.md`](08-safety-security.md) — Level 1 advisory; STEP enrollment; crowd-crush awareness (Itaewon 2022); lost passport
 
 ## Money & Communication
@@ -27,8 +27,8 @@ This folder contains all verified reference material. Start with [`README.md` at
 
 ## Verification
 
-- [`sources.md`](sources.md) — Official source register S1–S15; all URLs verified 5 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
+- [`sources.md`](sources.md) — Official source register S1–S15; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
 
 ---
 
-*Every claim in this folder traces to `sources.md`. Re-verify time-sensitive items before 31 Oct departure.*
+*Critical factual claims are linked to `sources.md`; recommendations are not government rules. Re-verify time-sensitive items before 31 Oct departure.*

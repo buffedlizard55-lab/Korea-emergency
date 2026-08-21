@@ -1,7 +1,7 @@
 # 11. Emergency Scenario Guide — What to Do When Unplanned Things Happen
 
 > **For:** Two U.S. citizens (1 male / 1 female), California → Seoul 31 Oct – 22 Nov 2026  
-> **Sources:** Verified official sources S1–S15; scenario protocols derived from U.S. State Dept / Embassy guidance; Korean emergency-service procedures; travel-preparedness best practice  
+> **Sources:** Official contacts and links are in S1–S15. Scenario steps combine official emergency contacts with general safety recommendations; they are not legal, medical, insurance, or hotel-policy guarantees.  
 > **Use with:** `docs/10-itinerary-day-plan.md`, `checklists/offline-emergency-card.md`, `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`  
 
 ---
@@ -122,7 +122,7 @@
 1. **Leave immediately.** Use stairs — never elevator. Feel door handle — if hot, do not open; seal door with wet towel / clothing; call 119 from inside.
 2. **Go to pre-agreed meeting point** (outside, away from building, near other travelers / hotel staff). Confirm both travelers are safe.
 3. **Do not re-enter** for belongings / phones / passports — only if staff confirm it's safe and you have someone watching you.
-4. **Call 119** from outside; ask for fire / rescue; inform hotel management; ask concierge if you need alternative accommodation (hotel should arrange at their expense if they are at fault — but for safety, confirm with staff).
+4. **Call 119** from outside; ask for fire / rescue; inform hotel management; ask concierge if you need alternative accommodation (ask staff about relocation and payment arrangements; hotel liability and reimbursement depend on the facts and applicable law).
 5. **Notify CA emergency contact** once safe; use backup phone / hotel phone / ask staff to call for you.
 
 ---
@@ -137,7 +137,7 @@
 
 **If cards lost / stolen / frozen:**
 1. Call bank using international number (from backup phone / hotel phone / public phone).
-2. Ask bank to freeze / cancel cards; ask for emergency replacement if they can mail to Korea (usually 3–7 days — not fast enough for a 22 Nov trip; better to rely on backup card + cash + wire).
+2. Ask bank to freeze / cancel cards; ask for emergency replacement if they can mail to Korea (timing varies; do not rely on replacement delivery as your only backup).
 3. Use **backup card**; use **cash**; ask hotel / concierge for temporary help (most major hotels can help with emergency cash / card replacement or direct billing to your room if you can provide card info over phone).
 4. If you need an emergency wire: ask CA contact to send via Western Union / MoneyGram to a major bank / station near your hotel (Seoul Station / Busan Station / Daejeon Station have branches / agents). You will need your passport + receipt number.
 5. If you have travel insurance that covers lost/stolen baggage / cards, call claim line; keep police report (if theft) and bank notification records.
@@ -197,8 +197,8 @@
 | Weather / storm / snow / temperature | **https://www.kma.go.kr/eng/** | S12 |
 | Air quality / fine dust / AQI / mask recommendation | **https://www.airkorea.or.kr** | S13 |
 | Airport flight / arrival / transport info | **https://www.airport.kr** | S14 |
-| AREX train schedules / fares / last train | **https://www.arex.or.kr** | S15 |
-| CSAT date / confirmation | **https://www.kice.re.kr** (search 수능 시행기본계획) | S10 |
+| AREX train schedules / fares / last train | **https://www.arex.or.kr/content.do?url=&menuNo=MN201503300000000002&contentNo=&clientLocale=en_US&clientDevice=Normal** | S15 |
+| CSAT date / confirmation | **https://csatcdn.kice.re.kr/resources/pdf/guideline.pdf** | S10 |
 | Korean holidays / traffic calendar | **https://english.visitkorea.or.kr** | S9 |
 | Medication import / narcotics approval (if needed) | **narcotics@korea.kr** / **+82-43-719-2813** / **https://www.mfds.go.kr** | S4 / S11 |
 
@@ -207,4 +207,4 @@
 *Keep this file (and `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`, and `docs/03-emergency-contacts.md`) downloaded to both travelers' phones and in paper form in each bag. Update this scenario guide if any new risks emerge (e.g., new health alert, new traffic rule, new consular message). Re-verify all URLs and numbers 1–2 weeks before 31 Oct departure.*
 ---
 
-*Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Day plan (docs/10-itinerary-day-plan.md)](docs/10-itinerary-day-plan.md) · [Emergency contacts (docs/03-emergency-contacts.md)](docs/03-emergency-contacts.md) · [Medical alert card (checklists/medical-alert-card.md)](checklists/medical-alert-card.md) · [Translation card (checklists/translation-card.md)](checklists/translation-card.md) · [Source register (docs/sources.md)](docs/sources.md)
+*Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Day plan (10-itinerary-day-plan.md)](10-itinerary-day-plan.md) · [Emergency contacts (03-emergency-contacts.md)](03-emergency-contacts.md) · [Medical alert card (../checklists/medical-alert-card.md)](../checklists/medical-alert-card.md) · [Translation card (../checklists/translation-card.md)](../checklists/translation-card.md) · [Source register (sources.md)](sources.md)

@@ -2,7 +2,7 @@
 
 ## Right after landing (Sun 1 Nov, ~9 PM)
 - [ ] Complete immigration, collect bags
-- [ ] Catch AREX (~until 11:32 PM) or night bus N6000/N6001, or taxi
+- [ ] Check the official AREX timetable; if no suitable train remains, use the current Incheon Airport night-bus listing or a taxi
       (night surcharge 10 PM–4 AM) — see 07
 - [ ] Buy/load a **T-money card** at a convenience store
 - [ ] Set up local eSIM/SIM or Wi-Fi, confirm 1330 + Embassy numbers saved
@@ -16,8 +16,8 @@
 
 ## On CSAT day — Thursday 19 Nov
 - [ ] If traveling within Korea: extra morning time; avoid driving near schools/test sites
-- [ ] **No flights ~12:30–2:00 PM** (nationwide aviation hold 1:05–1:40 PM)
-- [ ] Expect offices/banks open later (10 AM)
+- [ ] **Check airline/airport notices before booking flights on CSAT day**; KICE English listening session is 13:10–14:20
+- [ ] Check official notices for any altered office, bank, or transport hours
 
 ## Departure day — Sun 22 Nov
 - [ ] Arrive ICN ~3 h before international departure

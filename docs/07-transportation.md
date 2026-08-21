@@ -5,11 +5,11 @@ Sources: Incheon airport [S14], AREX [S15].
 ## Arrival at Incheon (ICN) — you land ~9:00 PM Sun 1 Nov
 Getting to Seoul late at night (your **#1 arrival concern**):
 
-| Option | Last service / hours | Approx. cost | Notes |
-|--------|----------------------|--------------|-------|
-| **AREX Express Train** (Incheon → Seoul Station) | Runs ~5:20 AM – **11:32 PM**; ~43–45 min | ~₩9,000–11,000 | Fastest. If you clear immigration quickly you can catch it. |
-| **Limousine airport bus** | Last buses thin out ~10–11 PM; **night buses N6000 / N6001** run when trains stop | ~₩16,000–18,000 | Good late-night option to Seoul Station / Gangnam area. |
-| **Taxi / Kakao Taxi** | 24/7 | ~₩65,000–85,000 to central Seoul | **Night surcharge 10 PM–4 AM**; peaks ~40% from 11 PM–2 AM. Use Kakao T app. |
+| Option | Service / timing | Fare | Notes |
+|--------|------------------|------|-------|
+| **AREX Express Train** (Incheon → Seoul Station) | Timetable varies by day/terminal. The current AREX timetable lists the final T1 Express departure at 22:48, arriving Seoul at 23:31; travel is 43 min from T1 / 51 min from T2. | Check the current AREX fare page before purchase. | Check the official timetable before relying on this option. |
+| **Airport night bus** | Incheon Airport publishes current routes, terminals, fares, and times. N6001 serves Seoul Station; N6000 serves Gangnam. | Check the official ICN page before boarding. | Service and stops are subject to change. |
+| **Taxi / Kakao Taxi** | Taxis operate 24/7, subject to availability. | Varies by taxi type, route, tolls, and surcharges. Seoul publishes late-night surcharge rules; verify current rules. | Use Kakao T or the meter. |
 
 **Recommendation for a 9 PM arrival:** aim for AREX if you clear immigration
 fast; otherwise grab a **night bus (N6000/N6001)** or a **taxi**. Have your
@@ -29,7 +29,7 @@ hotel address written in **Korean** for drivers (see below).
   can order an "international taxi"). Uber works through the app in some
   areas.
 - **Taxis:** most are metered and honest. Use **Kakao T** to avoid
-  language-barrier issues. Standard taxi base ~₩4,800.
+  language-barrier issues. Base fares and surcharges change; consult the current Seoul Metropolitan Government fare page.
 - **Naver Map / Kakao Map** (English) work far better than Google Maps in
   Korea for transit directions. Download offline maps before you go.
 
@@ -37,7 +37,7 @@ hotel address written in **Korean** for drivers (see below).
 - **KTX high-speed rail:** Seoul → Busan ~2h20m, Seoul → Gyeongju, etc.
   Book on Korail (let's Korail / 코레일). Reliable, comfortable.
 - **Domestic flights** (e.g., to Jeju): short hops from Gimpo (GMP) or
-  Incheon. Remember the CSAT ~1 PM aviation hold on **19 Nov**.
+  Incheon. Remember the CSAT English listening session: 13:10–14:20 (KICE schedule) on **19 Nov**.
 
 ## To ICN on departure (Sun 22 Nov)
 - Recommend **3 hours** before international departure at ICN.
