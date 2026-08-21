@@ -7,7 +7,7 @@ Getting to Seoul late at night (your **#1 arrival concern**):
 
 | Option | Service / timing | Fare | Notes |
 |--------|------------------|------|-------|
-| **AREX Express Train** (Incheon → Seoul Station) | Timetable varies by day/terminal. The current AREX timetable lists the final T1 Express departure at 22:48, arriving Seoul at 23:31; travel is 43 min from T1 / 51 min from T2. | Current published adult fare: ₩13,000 | Check the official timetable before relying on this option. |
+| **AREX Express Train** (Incheon → Seoul Station) | Timetable varies by day/terminal. The current AREX timetable lists the final T1 Express departure at 22:48, arriving Seoul at 23:31; travel is 43 min from T1 / 51 min from T2. | Check the current AREX fare page before purchase. | Check the official timetable before relying on this option. |
 | **Airport night bus** | Incheon Airport publishes current routes, terminals, fares, and times. N6001 serves Seoul Station; N6000 serves Gangnam. | Check the official ICN page before boarding. | Service and stops are subject to change. |
 | **Taxi / Kakao Taxi** | Taxis operate 24/7, subject to availability. | Varies by taxi type, route, tolls, and surcharges. Seoul publishes late-night surcharge rules; verify current rules. | Use Kakao T or the meter. |
 

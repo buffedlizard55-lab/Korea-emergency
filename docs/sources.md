@@ -23,10 +23,10 @@ departure, because policies can change with little notice.
 | S9 | Korea Tourism Organization — 2026 public holidays | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140038 |
 | S10 | KICE — 2027 CSAT official guideline (exam date) | https://csatcdn.kice.re.kr/resources/pdf/guideline.pdf |
 | S11 | Ministry of Food & Drug Safety (MFDS) — narcotics import | https://www.mfds.go.kr |
-| S12 | Korea Meteorological Administration (KMA) | https://www.kma.go.kr/eng/ |
+| S12 | Korea Meteorological Administration — forecasts and warnings | https://www.kma.go.kr/eng/weather/forecast/standard_warning_info.jsp |
 | S13 | Air Quality (AirKorea, KECO) | https://www.airkorea.or.kr |
 | S14 | Incheon International Airport — late-night buses | https://www.airport.kr/ap_lp/en/tpt/pblctpt/pblctpt1/sunight/sunight.do |
-| S15 | AREX — official timetable | https://www.arex.or.kr/content.do?url=&menuNo=MN201503300000000002&contentNo=&clientLocale=en_US&clientDevice=Normal |
+| S15 | AREX — official timetable and fare portal | https://www.arex.or.kr/content.do?url=&menuNo=MN201503300000000001&contentNo=&clientLocale=en_US&clientDevice=Normal |
 
 ## Key facts and the source that confirms them
 
