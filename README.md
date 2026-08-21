@@ -11,6 +11,31 @@ An emergency-preparedness repo with a conservative verification audit for your t
 
 ---
 
+## 🔴 REVIEW REQUIRED — Itinerary mismatch (flagged 21 Aug 2026)
+
+> The stated trip is **Seoul 1–9 Nov · Busan 9–15 Nov · Seoul 15–22 Nov 2026**.
+> Everything below (and in `docs/10-itinerary-day-plan.md`) is still written for a **different**
+> plan that includes a **Daejeon / Cheonan** leg and puts **Busan 13–20 Nov**.
+>
+> **Most important consequence:** this repo says CSAT (Thu 19 Nov) falls during your **Busan** stay.
+> On the stated itinerary you are in **Seoul** on 19 Nov. CSAT planning must be Seoul-based.
+>
+> Full analysis and every other flagged item: **[`docs/13-irregularities-2026-08-21.md`](docs/13-irregularities-2026-08-21.md)**
+> Confirm the city split and the day plan will be rebuilt around it.
+
+## 🆕 Seoul & Busan emergency resources — 20 verified entries
+
+> **[`docs/12-seoul-busan-emergency-resources.md`](docs/12-seoul-busan-emergency-resources.md)** — Emergency Ready App,
+> Baro Emergency Reporting App, Safe Korea portal, **1339 / 1345 / 182 / 1577-1366**, E-Gen hospital
+> finder, Busan emergency-medical guide, Busan international hospitals, Haeundae Paik Hospital,
+> night-pharmacy finder, Busan 120 & 1600-0051, Busan earthquake guides (12 languages), Humetro
+> lost & found. Every entry links to the official page it was read from.
+>
+> ⚠️ **1339 is the infectious-disease line, not an ambulance.** Ambulance is **119**.
+> ⚠️ **122 (maritime) no longer exists** — it was merged into **119**. Relevant to Busan beaches.
+
+---
+
 ## ⚡ QUICK START — 3 Steps (Start Here)
 
 | Step | Action | Link |
@@ -87,7 +112,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 - [`docs/07-transportation.md`](docs/07-transportation.md) — Late-night ICN, AREX / night bus / taxi + night surcharge, Kakao T
 - [`docs/08-safety-security.md`](docs/08-safety-security.md) — Level 1, STEP, crowd-crush (Itaewon 2022), lost passport
 - [`docs/09-money-communication.md`](docs/09-money-communication.md) — Cash, SIM / eSIM, phrases, adapters
-- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S17** — official links reviewed 21 Aug 2026
+- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S38** — official links reviewed 21 Aug 2026
 
 ### 🖨️ Printable / Offline
 - [`print/emergency-card.pdf`](print/emergency-card.pdf) — One-page wallet card (romanized; no Korean fonts available in workspace)

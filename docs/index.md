@@ -25,9 +25,14 @@ This folder contains reference material with a verification audit. Start with [`
 
 - [`09-money-communication.md`](09-money-communication.md) — Cash / cards / SIM / eSIM / data / phrases / power adapter
 
+## Seoul & Busan Emergency Resources (added 21 Aug 2026)
+
+- [`12-seoul-busan-emergency-resources.md`](12-seoul-busan-emergency-resources.md) — **20 verified new entries** for Seoul and Busan: Emergency Ready App, Baro reporting app, Safe Korea, 1339 / 1345 / 182 / 1577-1366, E-Gen, Busan emergency medical guide, Busan international hospitals, Haeundae Paik Hospital, night-pharmacy finder, Busan 120 / 1600-0051, Busan earthquake guides, Humetro lost & found
+- [`13-irregularities-2026-08-21.md`](13-irregularities-2026-08-21.md) — **Review log / flagged irregularities** — itinerary mismatch, 1339 misuse risk, obsolete 122, broken source links, unverified claims
+
 ## Verification
 
-- [`sources.md`](sources.md) — Official source register S1–S17; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
+- [`sources.md`](sources.md) — Official source register S1–S38; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
 
 ---
 
