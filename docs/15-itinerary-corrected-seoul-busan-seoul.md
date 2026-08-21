@@ -156,6 +156,6 @@ passes, and a copy of both travelers' documents.
 
 ---
 
-*Built from the stated itinerary and verified against official sources S1–S55 plus the entries in
+*Built from the stated itinerary and verified against official sources S1–S75 plus the entries in
 `docs/12` and `docs/14`. Weekday arithmetic recomputed 21 Aug 2026. Re-verify time-sensitive items
 1–2 weeks before departure.*
