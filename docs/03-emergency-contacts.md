@@ -8,8 +8,11 @@ Keep this list on your phone (saved offline) and on a paper card in your wallet.
 |--------|---------|
 | **112** | Police |
 | **119** | Ambulance / Fire |
-| **1366** | Toll-free domestic-violence hotline |
+| **1366** | Women's emergency (DV / sexual violence / stalking) — 365/24; Seoul 02-1366 · Busan 051-1366 |
 | **1330** | Korea Travel Helpline (KTO) — English available 24/7 |
+| **1394** | National Counter Scam Bureau (voice phishing) — also call 112 if money is moving |
+| **118** | KISA cyber / hacking / smishing — hacking emergencies 24/7 (free) |
+| **1577-2600** | Incheon Airport help desk T1/T2 (07:00–22:00) |
 | **+82-2-3210-0404** | Korea Emergency Call Center for **international callers** — request an English-speaking operator |
 
 ## U.S. government

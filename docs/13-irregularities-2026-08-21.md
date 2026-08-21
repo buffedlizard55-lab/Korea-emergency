@@ -392,3 +392,386 @@ also retroactively explains the "22 Aug 2026" stamp in N38.)
 4. **IRR-13** — KMA `/eng/…` pages (incl. S54/131 page) sit on unmanaged paths; use `/neng` and
    re-verify before departure.
 5. **IRR-16** — Seoul night-pharmacy count discrepancy on the official page; call before visiting.
+
+---
+
+# 4th pass — 20 new entries (N61–N80), 21–22 Aug 2026
+
+Set 4 is [`docs/17-seoul-busan-emergency-resources-set4.md`](17-seoul-busan-emergency-resources-set4.md).
+Same rule: only official sources; failures stay here. New irregularities are numbered IRR-19+.
+
+## ✅ IRR-19 — ICN English Emergency Contacts page now loads (resolves part of IRR-9)
+
+- IRR-9 excluded the ICN official emergency-contact table because the English page redirected to a
+  Korean intro. On this pass **`airport.kr/ap_en/1544/subview.do` loaded in English** with the full
+  table (help desk **1577-2600**, hours **07:00–22:00**, Inha medical T1/T2, lost & found, fire,
+  crime). Added as **N61**.
+- ⚠️ The live HTML has a markup glitch on the T2 explosives row (`Terminal 2/td>`). The printed T2
+  number in that row is still **032-741-0202**.
+- The dedicated Lost-and-Found hours page (`ap_en/1549/subview.do`) returned **HTTP 500** this pass,
+  so **hours/locations for the L&F desks are not in set 4** — only the phone numbers from the
+  Emergency Contacts table. Re-open before relying on a visit window.
+- Separate ICN late-night **bus** English page (IRR-12) still did not render.
+
+## 🟡 IRR-20 — Embassy Emergency Preparedness page still cites the unmanaged KMA `/eng` URL
+
+- `kr.usembassy.gov/services-emergency-preparedness/` (dated **20 May 2026**) tells travelers to
+  monitor KMA at **`http://web.kma.go.kr/eng/index.jsp`**. That is the same unmanaged `/eng` pattern
+  flagged in IRR-7 / IRR-13. The Embassy's **131 then 9 then 1, 09:00–18:00** instruction matches
+  N39. **Use `kma.go.kr/neng`** for English forecasts. Flagged so nobody "corrects" N72 toward the
+  Embassy's stale KMA link.
+
+## 🟡 IRR-21 — NHRCK English guide prints two different English email addresses
+
+- The live 2026 English complaint guide
+  ([humanrights.go.kr](https://www.humanrights.go.kr/eng/contents/view?contentsNo=143&menuLevel=3&menuNo=140))
+  says English consultation is by email **`hoso@nhrc.go.kr`** on one panel and prints
+  **`hoso@humanrights.go.kr`** on a later panel. Both appear on the same official page. **N68 quotes
+  both and does not pick a winner.** Phone **1331** (weekdays 09:00–18:00) and the fax numbers
+  (+82-2-2125-9811/9812) are unambiguous. Re-check the email before writing.
+
+## 🟡 IRR-22 — `index.html` had a typo 경찴민원24 (wrong character) for 경찰민원24
+
+- The GitHub Pages front page printed **경찴민원24** in the lost-property table and source line.
+  The official name is **경찰민원24** (N46 / IRR-10). Fixed in this pass on `index.html`. The
+  underlying URL `minwon24.police.go.kr` was already correct.
+
+## 🟡 IRR-23 — `index.html` Seoul Metro lost-and-found phones disagree with N47
+
+- Set 3 **N47** (Seoul Metro official English FAQ, page read) lists Line 5·8 Wangsimni
+  **02-6311-6765/6768** and Line 6·7 Wangsimni **02-6311-6766/6767**.
+- `index.html` had **02-6310-6765** and **02-6310-6766** (631**0**, and only one extension each).
+- **The official FAQ wins.** `index.html` is aligned to N47 in this pass. Do not "fix" it back from
+  a blog (see also IRR-14 on Wangsimni vs Taereung).
+
+## 🔵 IRR-24 — Visit Busan TIC / 120-hours page would not load; not added
+
+- `visitbusan.net` tourist-information URLs returned **HTTP 500** this pass. A search-index snippet
+  from the official domain listed a Seomyeon Medical Tourism Information Center (051-818-1320,
+  09:00–18:00) and a footer **051-120 Mon–Fri 08:30–18:30**. That footer **disagrees** with N18's
+  Busan-city page (**weekdays 09:00–18:00**). **Not added to the verified 20.** Re-open
+  [visitbusan.net TIC](https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303014001000) and
+  [busan.go.kr/eng/call-center](https://www.busan.go.kr/eng/call-center) closer to the trip.
+
+## 🟡 IRR-25 — 1366 centre *addresses* differ across official-family pages; phones agree
+
+- MOGEF (S77, page read) and one stop.or.kr listing agree on **Seoul 02-1366** and **Busan 051-1366**
+  and on the MOGEF street addresses used in N62.
+- Other official-family listings (older stop.or.kr captures) have shown different Seoul (Guro) and
+  Busan (Geumjeong) street addresses. **Phones are consistent. Use 1366 / 02-1366 / 051-1366**, not
+  a memorized street address, if you need the centre.
+
+## 🟡 IRR-27 — State Dept from-abroad hours: repo said 24/7; Embassy preparedness page prints weekday hours
+
+- `index.html` and `docs/03` have long described **+1-202-501-4444** as 24/7 (from S1).
+- The Embassy Emergency Preparedness page (S86, dated 20 May 2026) says callers can obtain security
+  information at that number **08:00–20:00 Eastern, Monday–Friday except U.S. federal holidays**.
+- These can both be true (24/7 emergency vs weekday information line) or one can be stale. **Not
+  changed in the existing number table this pass.** For a U.S. citizen emergency *in Korea*, the
+  unambiguous 24/7 number remains **+82-2-397-4114**. Re-read S1 before treating 202-501-4444 as
+  overnight.
+
+## 🟡 IRR-26 — Safe Korea English portal is AI-translated (the site says so)
+
+- `eng.safekorea.go.kr` displays: "This Translation is generated by AI and may contain errors or
+  inaccuracies." The **maps and the existence of an English alert feed** are still official MOIS
+  services (and the U.S. Embassy names this portal). Treat English alert wording as a pointer, not
+  a certified translation; confirm with 119 / 1330 / Emergency Ready if you must act.
+
+## Status summary after the 4th pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-9 (ICN contacts) | ICN emergency table unreachable | ✅ **Resolved this pass** — English page live (N61); L&F *hours* page still 500 |
+| IRR-19 | ICN Emergency Contacts now loads | ✅ Documented (N61) |
+| IRR-20 | Embassy preparedness uses stale KMA `/eng` URL | 🟡 Open — use `kma.go.kr/neng` |
+| IRR-21 | NHRCK two English emails on one page | 🟡 Open — use 1331; do not pick an email |
+| IRR-22 | index.html 경찴민원24 typo | ✅ Fixed this pass |
+| IRR-23 | index.html Metro 6310 vs official 6311 | ✅ Aligned to N47 this pass |
+| IRR-24 | Visit Busan TIC / 120-hours conflict | 🔵 Unverified — excluded from N61–N80 |
+| IRR-25 | 1366 street-address drift | 🟡 Phones verified; do not memorise addresses |
+| IRR-26 | Safe Korea English is AI-translated | 🟡 Documented on N70 |
+| IRR-27 | 202-501-4444 hours: 24/7 vs weekday 08:00–20:00 ET | 🟡 Open — use Embassy Seoul 24/7 for in-country emergencies |
+
+## Remaining open items (cumulative, after 4th pass)
+
+1. **IRR-2b** — Visit Seoul still labels 1339 "Emergency Medical Information Center"; ambulance = **119**.
+2. **IRR-5** — passport validity: keep "6 months" labelled as caution, not a Korean rule.
+3. **IRR-12** — ICN English late-night bus page not renderable; fares direction-dependent.
+4. **IRR-13 / IRR-20** — KMA `/eng/…` (and the Embassy's `web.kma.go.kr/eng` link) unmanaged; use `/neng`.
+5. **IRR-16** — Seoul night-pharmacy 40-vs-38 count; call before visiting.
+6. **IRR-21** — NHRCK English email conflict; use 1331.
+7. **IRR-24** — Visit Busan TIC page and 120-hours conflict unverified this pass.
+8. **IRR-25** — 1366 street addresses drift; use the phone number.
+9. **IRR-26** — Safe Korea English is AI-translated; confirm before acting.
+10. **IRR-27** — State Dept +1-202-501-4444 hours conflict; in Korea use **+82-2-397-4114**.
+
+---
+
+# 5th pass — 20 new entries (N81–N100), 21–22 Aug 2026
+
+Set 5 is [`docs/18-seoul-busan-emergency-resources-set5.md`](18-seoul-busan-emergency-resources-set5.md).
+Same rule: only official sources; failures stay here. New irregularities are numbered IRR-28+.
+
+## 🔴 IRR-28 — kstay lodging report stopped 2 Nov 2025; Hi Korea still links it
+
+- Live official portal `kstay.hikorea.go.kr` banner: **“외국인 숙박신고가 2025.11.2.부로 중단되었습니다.”**
+- Infectious-disease and terror tiles both show **없음 / 숙박신고가 불필요한 단계**.
+- N76 (set 4) correctly reported that Hi Korea *displays* a kstay shortcut. That shortcut is now
+  **stale**. **N98** records the stop. Hotels may still photocopy a passport under other rules —
+  that is not this system.
+
+## 🟡 IRR-29 — Climate Card 30-day product dies 31 Aug 2026 (before this trip)
+
+- SMG official Climate Card page: 30-day prepaid card **rechargeable only until 31 August 2026**.
+  **Climate Pass (1 Sep 2026)** requires a **foreigner registration number** and is for **Seoul
+  residents**. Short-term 1–7 day passes remain. Do not buy a 30-day Climate Card for Nov 2026.
+
+## 🟡 IRR-30 — Embassy holiday-calendar URL 404s
+
+- ACS page (N73) links a holiday calendar. `kr.usembassy.gov/holiday-calendar/` returned **404**
+  this pass. ACS is still closed on U.S. and Korean holidays (N73); the dedicated calendar URL is
+  not usable. Re-open the ACS page closer to the trip.
+
+## 🟡 IRR-31 — Seoul English air-quality deep links 404
+
+- The Seoul English site header shows a live **fine dust warning** and links
+  `…/7-citizen-safety-tips/` and `…/air-quality-information/`. Both returned **Page Not Found**
+  this pass. Keep using **AirKorea English (N55)** and **KMA `/neng`**. Do not cite the broken
+  Seoul deep links as verified how-to pages.
+
+## 🔵 IRR-32 — ICN Lost & Found hours page still HTTP 500
+
+- `airport.kr/ap_en/1549/subview.do` failed again (same as IRR-19). Phones remain on N61 only.
+
+## Status summary after the 5th pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-28 | kstay stopped 2 Nov 2025; Hi Korea link stale | ✅ Documented (N98) |
+| IRR-29 | Climate Card 30-day ends 31 Aug 2026 | ✅ Documented (N94) |
+| IRR-30 | Embassy holiday-calendar URL 404 | 🟡 Open — use ACS page, not that URL |
+| IRR-31 | Seoul English air-quality how-to pages 404 | 🟡 Open — use AirKorea / KMA |
+| IRR-32 | ICN L&F hours page still 500 | 🔵 Still unverified |
+
+## Remaining open items (cumulative, after 5th pass)
+
+1. **IRR-2b** — Visit Seoul still labels 1339 “Emergency Medical Information Center”; ambulance = **119**.
+2. **IRR-5** — passport “6 months” is caution, not a Korean rule.
+3. **IRR-12** — ICN English late-night bus page; fares direction-dependent.
+4. **IRR-13 / IRR-20** — KMA `/eng` unmanaged; use `/neng`.
+5. **IRR-16** — Seoul night-pharmacy 40-vs-38; call first.
+6. **IRR-21** — NHRCK two English emails; use 1331.
+7. **IRR-24** — Visit Busan TIC / 120-hours conflict unverified.
+8. **IRR-25** — 1366 street addresses drift; use the phone.
+9. **IRR-26** — Safe Korea English is AI-translated.
+10. **IRR-27** — +1-202-501-4444 hours; in Korea use **+82-2-397-4114**.
+11. **IRR-30** — Embassy holiday-calendar URL 404.
+12. **IRR-31** — Seoul English air-quality how-to pages 404.
+13. **IRR-32** — ICN L&F hours page still 500.
+
+---
+
+# 6th pass — 20 new entries (N101–N120), 21–22 Aug 2026
+
+Set 6 is [`docs/19-seoul-busan-emergency-resources-set6.md`](19-seoul-busan-emergency-resources-set6.md).
+
+## 🟡 IRR-33 — Seoul Fire HQ site `fire.seoul.go.kr` HTTP 500
+
+- Linked from the official 119.go.kr HQ directory. Fetch returned **HTTP 500**. Busan HQ
+  `119.busan.go.kr` loaded (N112). Do not treat the Seoul HQ site as verified this pass.
+
+## 🟡 IRR-34 — bikeseoul.com blocked by WAF; Ttareungi hours conflict
+
+- Official operator site `bikeseoul.com` returned a **web-firewall block** from this environment.
+- Visit Seoul page edited **13 Jul 2026** prints **+82-1599-0120 (00:00–24:00)**. An older Seoul
+  official-knowledge page (seoulsolution.kr) printed **07:00–22:00**. **N115 quotes the 2026 STO
+  figure** and flags the conflict. Re-open before treating the line as 24-hour staffed.
+
+## 🟡 IRR-35 — Embassy arrest page links an older lawyers PDF than the Legal Assistance page
+
+- Arrest page (14 Apr 2026) links `…/2025/12/List-of-Lawyers.pdf`.
+- Legal Assistance page (20 Jul 2026) links `…/2026/07/List-of-Lawyers.pdf`.
+- **Use the July 2026 PDF (N105).** Do not mix the two.
+
+## Status summary after the 6th pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-33 | Seoul Fire HQ site 500 | 🟡 Open — use 119 / 119.go.kr |
+| IRR-34 | bikeseoul.com WAF; 24h vs 07:00–22:00 | 🟡 Open — N115 quotes 2026 Visit Seoul |
+| IRR-35 | Two Embassy lawyer PDFs | 🟡 Use July 2026 |
+
+## Remaining open items (cumulative, after 6th pass)
+
+Previous 1–13 still open, plus:
+
+14. **IRR-33** — Seoul Fire HQ website 500.
+15. **IRR-34** — Ttareungi hours; confirm 1599-0120 coverage.
+16. **IRR-35** — use the July 2026 lawyers PDF.
+
+---
+
+# 7th pass — 20 new entries (N121–N140), 21–22 Aug 2026
+
+Set 7 is [`docs/20-seoul-busan-emergency-resources-set7.md`](20-seoul-busan-emergency-resources-set7.md).
+
+## 🟡 IRR-36 — Visit Seoul complaints page last-edited 12 Feb 2019
+
+- Live page still lists **02-1800-9008 Tue–Sat 09:00–18:00**. The HTML **Edited Date is 12 Feb 2019**.
+- Hours may be stale. **N124 quotes the live text and flags the date.** Sunday/Monday use **1330**.
+  Re-open before treating Tue–Sat as current.
+
+## 🟡 IRR-37 — Hangang Bus times are a 1 Mar 2026 “until further notice” table
+
+- Last-arrival figures **20:27 / 19:32** are from the March 2026 restart notice, not a November
+  2026 timetable. Confirm on **hgbus.co.kr** before boarding. Water emergency remains **119**.
+
+## 🟡 IRR-38 — FSS 1332 homepage path 404s again
+
+- `fss.or.kr/fss/kr/main.jsp` and `fine.fss.or.kr` error pages this pass (same as set 5).
+  **1332 is still not a standalone verified-hours entry.** KLAC’s referral table (N63) remains
+  the only page-read mention.
+
+## Status after the 7th pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-36 | 1800-9008 page dated 2019 | 🟡 Quote live text; re-open |
+| IRR-37 | Hangang Bus times not a Nov 2026 table | 🟡 Confirm live |
+| IRR-38 | FSS 1332 site still erroring | 🔵 Still no hours |
+
+## Remaining open items (cumulative, after 7th pass)
+
+Previous 1–16 still open, plus IRR-36–38.
+
+---
+
+# 8th pass — 20 new entries (N141–N160), 21–22 Aug 2026
+
+Set 8 is [`docs/21-seoul-busan-emergency-resources-set8.md`](21-seoul-busan-emergency-resources-set8.md).
+Same rule: only official sources; failures stay here. New irregularities are numbered IRR-39+.
+
+## 🟡 IRR-39 — tiac.or.kr hours disagree with the Visit Seoul complaints page (N124)
+
+- Visit Seoul complaints page (N124 / IRR-36, HTML edited **12 Feb 2019**): **02-1800-9008 Tuesday–Saturday 09:00–18:00**.
+- Operator site **tiac.or.kr** (opened this pass, N158): **09:00–18:00**, **closed Seollal and Chuseok**, and **phone counselling is difficult 12:00–13:00**. It does **not** print Tuesday–Saturday.
+- **N158 quotes the operator site.** Sunday/Monday coverage is therefore **unsettled** between two official-family pages. Re-open both closer to the trip; **1330** remains the 24/7 fallback.
+
+## 🟡 IRR-40 — Gimhae English contact table: displayed number ≠ `tel:` link on two rows
+
+On the official KAC page (N141–N143):
+
+| Row | Text on the page | `tel:` href |
+|---|---|---|
+| Gimhae National Quarantine Station | **+82-51-973-6525** | `051-973-1922` |
+| Airport Police, International Terminal | **+82-51-974-2432** | `051-974-2403` (same as the Domestic row) |
+
+**N142 quotes the printed numbers** and flags the links. Confirm at the desk; do not “fix” the printed figure from the href.
+
+## 🟡 IRR-41 — ICN power-bank poster prints a nonsense mAh conversion
+
+- Live ICN notice dated **18 May 2026**, effective **20 Apr 2026** (N156): cabin only; **≤160 Wh, max 2**; over **100 Wh** ask the airline; no charge / use / overhead bin.
+- The same poster’s alt-text says **“100Wh(270,000mAh)”**. 100 Wh is about **20,000 mAh at 5 V** (or ~27,000 mAh at 3.7 V), **not 270,000 mAh**. Treat the **Wh figures and the 제한물품 table** as the rule; ignore the mAh gloss.
+- A March 2025 ICN campaign (still in the search index) allowed **up to five ≤100 Wh packs**. **The 2026 notice + the live 제한물품 page win.** Confirm with the **22 Nov airline**.
+
+## 🔵 IRR-42 — ECRM (`ecrm.police.go.kr`) still JS-thin
+
+- Opened `https://ecrm.police.go.kr/minwon/main`. The fetch returned only the language switcher (한국어 / English / 日本語 / 中文) and a login link. **No English body, hours, or cyber-crime form was readable.** Not added.
+
+## 🔵 IRR-43 — ICN English departure-checklist URL still redirects to the Korean intro
+
+- `airport.kr/ap_cnt/en/dep/depche/depche.do` (search-index snippet had 02-3210-0404) **redirected to the Korean intro page** again. **Not added.** 02-3210-0404 remains on the State Dept advisory (existing number table), not as a new ICN-desk entry.
+
+## 🟡 IRR-44 — tiac Dongdaemun desk printed “10:00–1:00”
+
+- tiac.or.kr (N159) lists **동대문 안내소 운영시간 : 10:00~1:00**. That can be read as 13:00 or 01:00. **Not used as a verified hour.** Itaewon **10:00–19:00 / 02-3785-0942** and Gwanghwamun **10:00–19:00 / 02-735-8688** are unambiguous and are the cited desks.
+
+## 🔵 IRR-45 — MFDS “1342 용기한걸음센터” is a menu label, not a hours page
+
+- Several MFDS pages list **1342 용기한걸음센터(24시 마약류 전화상담)** in the nav. The URL that label pointed to this pass (`mfds.go.kr/wpge/m_1078/de010807l001.do`) is the **마약류대책협의회** greeting — **no 1342 hours, languages, or what-to-say script**. **Not added.** Medicine import remains **Narcotics@korea.kr** (N154) and the existing MFDS notice (S11).
+
+## 🔵 IRR-46 — MOIS 긴급신고 통합 page body did not extract this pass
+
+- `mois.go.kr/frt/sub/a06/b10/emergencycall/screen.do` opened but the fetch returned **navigation only** (no 121 / 123 / 1544-4500 merge table in the extracted text). Those utility numbers are **still not a standalone verified entry**. The 122→119 merge already on N24 / N79 is unchanged. Do not list 121 / 123 / 1544-4500 as live emergency lines.
+
+## Status after the 8th pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-39 | tiac 09:00–18:00 vs Visit Seoul Tue–Sat | 🟡 Quote tiac; 1330 on Sun/Mon |
+| IRR-40 | Gimhae displayed vs `tel:` mismatch | 🟡 Quote printed numbers |
+| IRR-41 | ICN power-bank mAh gloss + 2025 vs 2026 count | 🟡 Use 2026 Wh table; ask the airline |
+| IRR-42 | ECRM JS-thin | 🔵 Still no English body |
+| IRR-43 | ICN English departure page redirect | 🔵 Not added |
+| IRR-44 | tiac Dongdaemun “10:00–1:00” | 🟡 Not used |
+| IRR-45 | 1342 menu has no hours page | 🔵 Not added |
+| IRR-46 | MOIS merge-table body not extractable | 🔵 121/123/1544-4500 still out |
+
+## Remaining open items (cumulative, after 8th pass)
+
+Previous 1–16 and IRR-36–38 still open, plus IRR-39–46.
+
+---
+
+# 9th pass — 20 new entries (N161–N180), 21–22 Aug 2026
+
+Set 9 is [`docs/22-seoul-busan-emergency-resources-set9.md`](22-seoul-busan-emergency-resources-set9.md).
+Same rule: only official sources; failures stay here. New irregularities are numbered IRR-47+.
+
+## 🟡 IRR-47 — MFA apostille deep link `0404.go.kr/consulate/consul_apo.jsp` 404s
+
+- Named on multiple `overseas.mofa.go.kr` apostille pages and in N151’s Embassy FAQ as the how-to.
+- Live fetch returned **“요청하신 페이지를 찾을 수 없거나 서버 오류가 발생했습니다.”**
+- **0404 homepage loads** (N172). **Do not add a standalone apostille-hours entry** until a live how-to page is re-opened. Phones **02-2002-0251 / 0252** remain quoted from the Embassy FAQ (N151).
+
+## 🔵 IRR-48 — Korean Red Cross education-schedule URL errors; phones not page-read
+
+- `redcross.or.kr/education_safety/education_safety_emergency.do?action=eduSchedule` returned an **error page**.
+- Homepage loaded but the extracted body had **no Seoul/Busan branch phones or 1577-8179 hours**. Search-index snippets listed Seoul **02-2181-3104** / Busan **051-801-4036** / **1577-8179** — **not added**. Re-open a live contact page before treating those as verified.
+
+## 🔵 IRR-49 — Hangang “금지행위(과태료)” page body is empty
+
+- `hangang.seoul.go.kr/www/contents/646.do?mid=427` opened with the title only. Fine amounts other than the **₩50,000 illegal-parking** figure on the Nanji page (N166) are **not** in set 9.
+
+## 🟡 IRR-50 — ICN “Consular Service Office” is Korean MFA, not the U.S. Embassy
+
+- ICN English Departure Checklist says a lost/urgent passport can be issued at the **Consular Service Office inside the ICN passenger terminal**.
+- That is the **Korean MFA** desk. **A U.S. lost passport is still Embassy Seoul only (N56/N107).** Documented as **N178** so nobody walks there with a U.S. passport.
+
+## 🟡 IRR-51 — Humetro CHS URL is a mixed Chinese/Korean skin
+
+- The page that loaded (`…/homepage/chs/…`) mixes Chinese chrome with the Korean emergency script. The **numbers (119 / 112 / 1544-5005 / 051-640-7447)** are in the Korean body and are what N174 quotes. Prefer the default-Korean path closer to the trip.
+
+## 🟡 IRR-52 — Embassy voting email: SeoulINFOACS@state.gov vs older VoteSeoul@state.gov
+
+- Live Voting page (16 Dec 2024): **SeoulINFOACS@state.gov**.
+- A 2022 Embassy message still in the search index: **VoteSeoul@state.gov**.
+- **N173 quotes the live page.** The 2022 address is not used.
+
+## 🔵 IRR-53 — Safe Korea CPR how-to URL redirected to the homepage
+
+- `safekorea.go.kr/idsiSFK/neo/sfk/cs/contents/prevent/SDIJK14739.html…` redirected to the **국민안전24** main. AED **how-to steps** are therefore **not** a standalone entry. The **AED map layer** is named on the live 생활안전 map (N176).
+
+## 🟡 IRR-55 — Gwangnaru AED count: English SMG page 1 vs Korean dashboard 3
+
+- N144 (SMG English Hangang Parks): **AED (1)**.
+- N167 (hangang.seoul.go.kr dashboard): **자동심장충격기 (3), 부분운영**.
+- **N167 quotes the Korean operator dashboard** and flags the English page. Do not memorise either count; call **119**.
+
+## Status after the 9th pass
+
+| ID | Issue | Status |
+|---|---|---|
+| IRR-47 | 0404 apostille how-to 404 | 🔵 No standalone hours |
+| IRR-48 | Red Cross contact page error | 🔵 Not added |
+| IRR-49 | Hangang fine-schedule page empty | 🔵 Only ₩50,000 parking is quoted |
+| IRR-50 | ICN consular desk ≠ U.S. Embassy | ✅ Documented (N178) |
+| IRR-51 | Humetro CHS mixed-language skin | 🟡 Numbers from Korean body |
+| IRR-52 | Two Embassy voting emails | 🟡 Use SeoulINFOACS@state.gov |
+| IRR-53 | Safe Korea CPR URL redirect | 🔵 How-to not added |
+| IRR-55 | Gwangnaru AED 1 vs 3 | 🟡 Quote Korean dashboard |
+
+## Remaining open items (cumulative, after 9th pass)
+
+Previous 1–16, IRR-36–46 still open, plus IRR-47–53 and IRR-55. (IRR-54 unused.)
