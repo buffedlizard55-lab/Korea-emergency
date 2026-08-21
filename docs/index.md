@@ -16,7 +16,7 @@ This folder contains reference material with a verification audit. Start with [`
 ## Health, Weather, Safety
 
 - [`04-health-medications.md`](04-health-medications.md) — CDC vaccines; medication import rules (no cannabis/CBD; narcotics/amphetamines/benzodiazepines need MFDS approval); travel insurance
-- [`05-weather-packing.md`](05-weather-packing.md) — Nov avg ~11–12 °C / 2–3 °C low; 5–7 rainy days; possible snow late month; fine-dust / AQI; pack KF94/N95
+- [`05-weather-packing.md`](05-weather-packing.md) — November weather varies by destination and date; check KMA and AirKorea; pack layers and particulate protection as appropriate
 - [`06-holidays-traffic-dates.md`](06-holidays-traffic-dates.md) — No holidays 1–22 Nov; CSAT Thu 19 Nov: morning traffic mgmt, English listening session: 13:10–14:20 (KICE schedule)
 - [`07-transportation.md`](07-transportation.md) — Late-night ICN arrival: check current AREX/airport-bus timetables and fares; taxi fare rules / Kakao T / Korean address
 - [`08-safety-security.md`](08-safety-security.md) — Level 1 advisory; STEP enrollment; crowd-crush awareness (Itaewon 2022); lost passport

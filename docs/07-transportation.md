@@ -5,11 +5,11 @@ Sources: Incheon airport [S14], AREX [S15].
 ## Arrival at Incheon (ICN) — you land ~9:00 PM Sun 1 Nov
 Getting to Seoul late at night (your **#1 arrival concern**):
 
-| Option | Last service / hours | Approx. cost | Notes |
-|--------|----------------------|--------------|-------|
-| **AREX Express Train** (Incheon → Seoul Station) | Official timetable varies by day/terminal; current AREX timetable shows the last Express departure from T1 at 22:48 (arrives Seoul 23:31); 43 min T1 / 51 min T2 | ₩13,000 | Fastest. If you clear immigration quickly you can catch it. |
-| **Limousine airport bus** | Last buses thin out ~10–11 PM; **night buses N6000 / N6001** run when trains stop | See the official ICN late-night-bus page for the current route, terminal, fare, and departure time; N6001 serves Seoul Station and N6000 serves Gangnam. | Confirm at the airport before boarding. |
-| **Taxi / Kakao Taxi** | 24/7 | Fare varies by taxi type, route, tolls, and surcharges; use the meter/official fare information. **Seoul late-night surcharge is generally 10 PM–4 AM, with 40% during 11 PM–2 AM; verify current rules.** Use Kakao T app. |
+| Option | Service / timing | Fare | Notes |
+|--------|------------------|------|-------|
+| **AREX Express Train** (Incheon → Seoul Station) | Timetable varies by day/terminal. The current AREX timetable lists the final T1 Express departure at 22:48, arriving Seoul at 23:31; travel is 43 min from T1 / 51 min from T2. | Current published adult fare: ₩13,000 | Check the official timetable before relying on this option. |
+| **Airport night bus** | Incheon Airport publishes current routes, terminals, fares, and times. N6001 serves Seoul Station; N6000 serves Gangnam. | Check the official ICN page before boarding. | Service and stops are subject to change. |
+| **Taxi / Kakao Taxi** | Taxis operate 24/7, subject to availability. | Varies by taxi type, route, tolls, and surcharges. Seoul publishes late-night surcharge rules; verify current rules. | Use Kakao T or the meter. |
 
 **Recommendation for a 9 PM arrival:** aim for AREX if you clear immigration
 fast; otherwise grab a **night bus (N6000/N6001)** or a **taxi**. Have your

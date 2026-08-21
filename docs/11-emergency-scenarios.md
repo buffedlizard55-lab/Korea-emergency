@@ -197,8 +197,8 @@
 | Weather / storm / snow / temperature | **https://www.kma.go.kr/eng/** | S12 |
 | Air quality / fine dust / AQI / mask recommendation | **https://www.airkorea.or.kr** | S13 |
 | Airport flight / arrival / transport info | **https://www.airport.kr** | S14 |
-| AREX train schedules / fares / last train | **https://www.arex.or.kr** | S15 |
-| CSAT date / confirmation | **https://www.kice.re.kr** (search 수능 시행기본계획) | S10 |
+| AREX train schedules / fares / last train | **https://www.arex.or.kr/content.do?url=&menuNo=MN201503300000000002&contentNo=&clientLocale=en_US&clientDevice=Normal** | S15 |
+| CSAT date / confirmation | **https://csatcdn.kice.re.kr/resources/pdf/guideline.pdf** | S10 |
 | Korean holidays / traffic calendar | **https://english.visitkorea.or.kr** | S9 |
 | Medication import / narcotics approval (if needed) | **narcotics@korea.kr** / **+82-43-719-2813** / **https://www.mfds.go.kr** | S4 / S11 |
 
@@ -207,4 +207,4 @@
 *Keep this file (and `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`, and `docs/03-emergency-contacts.md`) downloaded to both travelers' phones and in paper form in each bag. Update this scenario guide if any new risks emerge (e.g., new health alert, new traffic rule, new consular message). Re-verify all URLs and numbers 1–2 weeks before 31 Oct departure.*
 ---
 
-*Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Day plan (docs/10-itinerary-day-plan.md)](docs/10-itinerary-day-plan.md) · [Emergency contacts (docs/03-emergency-contacts.md)](docs/03-emergency-contacts.md) · [Medical alert card (checklists/medical-alert-card.md)](checklists/medical-alert-card.md) · [Translation card (checklists/translation-card.md)](checklists/translation-card.md) · [Source register (docs/sources.md)](docs/sources.md)
+*Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Day plan (10-itinerary-day-plan.md)](10-itinerary-day-plan.md) · [Emergency contacts (03-emergency-contacts.md)](03-emergency-contacts.md) · [Medical alert card (../checklists/medical-alert-card.md)](../checklists/medical-alert-card.md) · [Translation card (../checklists/translation-card.md)](../checklists/translation-card.md) · [Source register (sources.md)](sources.md)

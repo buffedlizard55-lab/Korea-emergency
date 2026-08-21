@@ -19,9 +19,9 @@ departure, because policies can change with little notice.
 | S5 | U.S. Smart Traveler Enrollment Program (STEP) | https://step.state.gov |
 | S6 | CDC — Health Information for Travelers to South Korea | https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-korea |
 | S7 | Korean e-Arrival Card (official) | https://www.e-arrivalcard.go.kr |
-| S8 | Korea Electronic Travel Authorization (K-ETA) | https://www.k-eta.go.kr |
+| S8 | Korea Electronic Travel Authorization — 2026 exemption notice | https://www.k-eta.go.kr/portal/board/viewboarddetail.do?bbsSn=299707 |
 | S9 | Korea Tourism Organization — 2026 public holidays | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140038 |
-| S10 | KICE — CSAT introduction and test-administration schedule | https://www.kice.re.kr/sub/info.do?m=0205&s=english |
+| S10 | KICE — 2027 CSAT official guideline (exam date) | https://csatcdn.kice.re.kr/resources/pdf/guideline.pdf |
 | S11 | Ministry of Food & Drug Safety (MFDS) — narcotics import | https://www.mfds.go.kr |
 | S12 | Korea Meteorological Administration (KMA) | https://www.kma.go.kr/eng/ |
 | S13 | Air Quality (AirKorea, KECO) | https://www.airkorea.or.kr |
@@ -47,9 +47,7 @@ departure, because policies can change with little notice.
   *inside* your trip window. [S10][S1]
 - **No Korean national public holidays** fall between 1 Nov and 22 Nov 2026
   (full 2026 official holiday calendar). [S9]
-- **Weather (Seoul, November):** avg high ~11–12 °C / 52–53 °F, avg low
-  ~2–3 °C / 36–37 °F, ~5–7 rainy days. Cold evenings; light snow possible late
-  month. [S12]
+- **Weather:** Use KMA forecasts and warnings for destination-specific, date-specific conditions. [S12]
 - **Vaccines (CDC):** be current on routine vaccines; Hepatitis A and Typhoid
   recommended for most travelers; Japanese encephalitis risk lower by
   November. [S6]

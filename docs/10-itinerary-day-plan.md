@@ -21,7 +21,7 @@ It is a day-by-day framework that pairs your travel dates with the places you wi
 | Phase | City / Region | Dates (2026) | Nights | Main emergency / disruption flags |
 |---|---|---|---|---|
 | **Arrival** | Seoul (ICN → city) | **1 Nov (Sun)** — arrive 21:00 / 9 PM | 1 | Late-night arrival; night taxi/AREX; save hotel address in Korean; 112/119; U.S. Embassy Seoul 24/7 |
-| **1** | Seoul — first leg | **2 Nov (Mon) → 8 Nov (Sun)** | 7 | No holidays; crowd-safety at Itaewon/Hongdae (weekend evenings); winter weather ~2–3 °C low; fine-dust check (S12/S13) |
+| **1** | Seoul — first leg | **2 Nov (Mon) → 8 Nov (Sun)** | 7 | No holidays; crowd-safety at Itaewon/Hongdae (weekend evenings); check KMA forecast and AirKorea (S12/S13) |
 | **2** | **Daejeon / Cheonan** | **8 Nov (Sun) → 13 Nov (Fri)** | 5 | **No U.S. consulate here** — consular help is Seoul only (+82-2-397-4114, 24/7); KTX to Daejeon / Asan (Cheonan); ask 1330 for nearest international clinic |
 | **3** | **Busan** (includes CSAT) | **13 Nov (Fri) → 20 Nov (Fri)** | 7 | **CSAT Thu 19 Nov** — exam-day morning travel caution; English listening session: 13:10–14:20 (KICE schedule); no consular services at Busan Consulate (+82-51-863-0731 — **no passport/emergency services**, use Seoul); beach/current safety if Haeundae/Gwangalli; coastal wind/cold |
 | **4** | Seoul — departure | **20 Nov (Fri) → 22 Nov (Sun)** | 2 | Sunday departure — allow 60–90 min to ICN; weekend traffic lighter but still build buffer (S7/S15) |
@@ -34,18 +34,18 @@ It is a day-by-day framework that pairs your travel dates with the places you wi
 
 - **STEP enrollment:** https://step.state.gov (S5). Share confirmation with your emergency contact in CA.
 - **e-Arrival Card:** Submit at **https://www.e-arrivalcard.go.kr** (S7) **within 72 hours before arrival** — for a 1 Nov 9 PM arrival, submit by **29 Oct evening at the latest** (safer: 28 Oct). It is free, mandatory since 1 Jan 2026 (S7/S8), and applies because you are traveling on the K-ETA exemption.
-- **K-ETA:** **Not required** for U.S. citizens through 31 Dec 2026 (S1/S3). Your exemption is automatic — do not apply or pay.
+- **K-ETA:** **Not required** for U.S. citizens through 31 Dec 2026 (S1/S8). Your exemption is automatic — do not apply or pay.
 - **Passport:** Must be valid for the entire stay; carry photocopy / digital scan (not original only).
 - **Docs offline:** Download / save this file (`docs/10-itinerary-day-plan.md`), `docs/03-emergency-contacts.md`, `checklists/offline-emergency-card.md`, and `print/emergency-card.pdf` / `.html` to your phone. Keep a paper copy in your wallet and a second copy in each traveler's bag.
 - **Hotel notes:** Once booked, save the **Korean-language address** of each hotel (ask the hotel or write it down) — taxi drivers and 119/112 operators understand Korean best. Put the address in your phone's notes with a Korean pin.
 - **Medications:** See `docs/04-health-medications.md` — bring original prescriptions + doctor's letter; marijuana / CBD / hemp / all cannabis is **prohibited even in transit**; opiates / amphetamines / benzodiazepines / stimulants require **MFDS import approval** (email narcotics@korea.kr, allow ≥2 weeks; S2/S4/S11). Carry only ~6 bottles / 3-month supply of non-controlled meds.
 - **Health:** CDC recommends routine vaccines + Hep A + Typhoid; JE lower risk by November (S6). No COVID entry requirement currently (re-verify 1–2 weeks before travel; S6/S1).
-- **Weather / air:** Check KMA (`https://www.kma.go.kr/eng/`, S12) and AirKorea (`https://www.airkorea.or.kr`, S13) 3–5 days out. November Seoul: avg high ~11–12 °C / low ~2–3 °C; ~5–7 rainy days; possible light snow late month (S12). Fine-dust risk → pack KF94 / N95 masks (S13).
+- **Weather / air:** Check KMA (`https://www.kma.go.kr/eng/`, S12) and AirKorea (`https://www.airkorea.or.kr`, S13) 3–5 days out. November conditions vary; check the official KMA forecast close to departure (S12). Fine-dust risk → pack KF94 / N95 masks (S13).
 - **Both travelers (1M + 1F):** Each should carry **separate paper copies** of passport scans / emergency card / STEP confirmation / e-Arrival confirmation. Each should have a separate working phone with emergency contacts saved (do not rely on a single phone). The female traveler should apply the same crowd-safety rules (Itaewon/Hongdae, poorly lit alleys at night, unmarked taxis); stick to well-lit/main roads after dark; if feeling unsafe, call 112 or go to nearest police station / major hotel; 1366 hotline available for domestic-violence / harassment concerns.
 - **Travel insurance:** Confirm before 31 Oct that your policy covers **medical evacuation, emergency medical treatment, trip interruption, and lost/stolen baggage** in South Korea. Keep the insurer's 24/7 claim number in your phone and on paper.
 - **Money / cash:** Notify banks; carry some cash (₩). For emergencies (taxi if card declines, market, small vendor), keep at least **₩50,000–100,000** in cash per traveler. Cards widely accepted.
 - **Health / vaccines:** See `docs/04-health-medications.md`. Be current on routine vaccines; Hep A + Typhoid recommended; JE lower risk by November (S6). No COVID entry requirement currently — re-verify 1–2 weeks before.
-- **Weather / air:** Check KMA (`https://www.kma.go.kr/eng/`, S12) and AirKorea (`https://www.airkorea.or.kr`, S13) 3–5 days out. November Seoul: avg high ~11–12 °C / low ~2–3 °C, ~5–7 rainy days, possible light snow late month; fine-dust risk → pack KF94/N95 masks (S13).
+- **Weather / air:** Check KMA (`https://www.kma.go.kr/eng/`, S12) and AirKorea (`https://www.airkorea.or.kr`, S13) 3–5 days out. November conditions vary; check the official KMA forecast close to departure; fine-dust risk → pack KF94/N95 masks (S13).
 - **Connectivity / apps:** At ICN you can buy a Korean SIM / eSIM (or use international roaming). Recommended apps: **Kakao T** (taxi, avoids overcharge / language barrier), **Naver Papago** (translation, offline features), **Korail Talk / LetsKorail** (KTX tickets), **Air Korea** (air quality), **Naver Maps / KakaoMap** (navigation — Google Maps is weaker in Korea). Save your hotels in Korean in these apps.
 - **Last-minute docs:** Download / save this file (`docs/10-itinerary-day-plan.md`), `checklists/offline-emergency-card.md`, `docs/03-emergency-contacts.md`, and `print/emergency-card.pdf` / `.html` to your phone **before 31 Oct** (offline access if networks fail). Keep paper copies in each traveler's bag.
 - **Before You Board (1 Nov ~20:00 SFO):** Confirm both passports, boarding passes, STEP enrollment, e-Arrival Card submission proof, emergency cards, cash (₩), medication (original Rx + doctor's letter if controlled), travel insurance card, phone chargers / adapters. Send "departing SFO" message to CA contact.
@@ -97,7 +97,7 @@ It is a day-by-day framework that pairs your travel dates with the places you wi
 **Daily emergency / safety flags:**
 
 - **Transport:** Seoul Metro is excellent; get a **T-money card** (or use contactless card / mobile payment) at any station. Rush hours ~07:30–09:00 and ~17:30–19:00; avoid non-essential travel then. Taxis are safe but agree on route / use Kakao T; have hotel address in Korean (S7).
-- **Weather:** November evenings are cold (low ~2–3 °C / 36–37 °F); pack layers, a warm jacket, and a compact umbrella (~5–7 rainy days; S12). If snow appears (possible late November), roads can be slick — wear shoes with grip.
+- **Weather:** Check the KMA forecast and warnings for each destination before traveling; pack layers, a warm jacket, and rain protection. Follow local guidance if snow or ice occurs.
 - **Air quality / health:** Check AirKorea (`https://www.airkorea.or.kr`, S13) each morning. If AQI is poor (yellow / orange / red), wear KF94/N95 masks — these are available at convenience stores; avoid prolonged outdoor exercise when AQI is bad. If you have asthma / respiratory issues, carry rescue medication.
 - **Crowd / crowd-crush risk:** If you visit **Itaewon** (especially weekend evenings) or **Hongdae**, be aware of dense crowds. On **31 Oct (Sat before you arrive)** Halloween crowds peaked; you arrive **1 Nov** — most of the peak is past, but **weekend nights (2 Nov, 8 Nov, 9 Nov)** can still be very busy in those neighborhoods. **If compressed:** move to an edge/exit, avoid bottle-necked alleys, stay calm, and do not push. The 2022 Itaewon crowd crush (29 Oct 2022) is why this is noted (S6 / general crowd-safety). If you feel unsafe in a crowd, call **112** or move to an open area.
 - **Theft / pickpocketing:** Common in crowded markets (Myeongdong, Dongdaemun, Namdaemun). Use a cross-body bag in front; do not put phones/wallets in back pockets.
@@ -236,9 +236,9 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 | Contact / URL | Info | Source |
 |---|---|---|
 | **U.S. Embassy Seoul — 24/7 emergency** | **+82-2-397-4114** | S1 / S2 |
-| **U.S. Embassy Seoul — address** | 188 Sejong-daero, Jongno-gu, Seoul 03141 | S2 / S3 |
+| **U.S. Embassy Seoul — address** | 188 Sejong-daero, Jongno-gu, Seoul 03141 | S2 / S8 |
 | **U.S. Embassy Seoul — website / contact** | https://kr.usembassy.gov — **no direct public emergency email**; use the website contact form or call 24/7 (+82-2-397-4114) | S2 |
-| **U.S. Consulate Busan** | +82-51-863-0731 — **no consular services** (passport / serious assistance → Seoul 24/7) | S2 / S3 |
+| **U.S. Consulate Busan** | +82-51-863-0731 — **no consular services** (passport / serious assistance → Seoul 24/7) | S2 / S8 |
 | **U.S. State Dept — from abroad** | +1-202-501-4444 | S1 |
 | **U.S. State Dept — from U.S. / Canada** | +1-888-407-4747 | S1 |
 | **STEP enrollment** | https://step.state.gov | S5 |
@@ -310,7 +310,7 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 1. **Book hotels** near transit anchors: Seoul Station / Myeongdong / Jongno (Phase 1 & 4); Daejeon Station / Government Complex (Phase 2); Busan Station / Haeundae / Seomyeon (Phase 3). Once booked, add each hotel's **Korean address** to this file and to your emergency card.
 2. **Book KTX seats** for 8 Nov (Seoul → Daejeon), 13 Nov (Daejeon / Seoul → Busan), and 20 Nov (Busan → Seoul) — reserve early; Sunday / Friday are popular.
 3. **Submit e-Arrival Card** if not done (https://www.e-arrivalcard.go.kr, S7) — must be within 72h of 1 Nov arrival.
-4. **Confirm K-ETA exemption** is still in effect (check https://kr.usembassy.gov, S2 / S3 — currently through 31 Dec 2026; restarts 1 Jan 2027).
+4. **Confirm K-ETA exemption** is still in effect (check https://kr.usembassy.gov, S2 / S8 — currently through 31 Dec 2026; restarts 1 Jan 2027).
 5. **Confirm CSAT date** one more time (https://www.kice.re.kr, S10) — currently Thu 19 Nov 2026; if anything changes, update Phase 3.
 6. **Re-verify medication / import rules** (S4 / S11) if you carry any prescription — especially if anything is a controlled substance.
 7. **Re-verify weather / air quality** 3–5 days before 1 Nov (KMA S12 / AirKorea S13) and again before 19 Nov (CSAT day — check if fine-dust is high; wear masks if needed).
@@ -321,7 +321,7 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 
 ---
 
-*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. All emergency numbers, URLs, and dates verified against official sources S1–S15 (`docs/sources.md`). Re-verify time-sensitive items 1–2 weeks before departure.*
+*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. Critical factual claims are linked to official sources S1–S15 (`docs/sources.md`); recommendations are not official rules. Re-verify time-sensitive items 1–2 weeks before departure.*
 
 ---
 
@@ -374,7 +374,7 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 
 ---
 
-*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. All emergency numbers, URLs, and dates verified against official sources S1–S15 (`docs/sources.md`). Re-verify time-sensitive items 1–2 weeks before departure. Update this file as you book hotels and confirm attractions.*
+*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. Critical factual claims are linked to official sources S1–S15 (`docs/sources.md`); recommendations are not official rules. Re-verify time-sensitive items 1–2 weeks before departure. Update this file as you book hotels and confirm attractions.*
 ---
 
-*Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Emergency contacts (docs/03)](docs/03-emergency-contacts.md) · [Entry docs (docs/02)](docs/02-entry-documents.md) · [Source register (docs/sources.md)](docs/sources.md) · [New scenario guide (docs/11-emergency-scenarios.md)](docs/11-emergency-scenarios.md)
+*Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Emergency contacts (docs/03)](03-emergency-contacts.md) · [Entry docs (docs/02)](02-entry-documents.md) · [Source register (sources.md)](sources.md) · [New scenario guide (11-emergency-scenarios.md)](11-emergency-scenarios.md)

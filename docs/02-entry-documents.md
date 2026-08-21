@@ -1,6 +1,6 @@
 # 2. Entry Requirements & Documents
 
-Sources: [S1][S3][S7][S8] — see `sources.md`. **Re-verify 1–2 weeks before
+Sources: [S1][S8][S7][S8] — see `sources.md`. **Re-verify 1–2 weeks before
 departure**, as policies change with little notice.
 
 ## Do I need a visa?
@@ -10,7 +10,7 @@ without a visa. Your ~22-day trip is well within that. [S1]
 ## K-ETA — NOT required for this trip
 - The **Korean Electronic Travel Authorization (K-ETA) exemption for U.S.
   passport holders has been extended through 31 December 2026**. Your trip is
-  in 2026, so you travel on the exemption and do **not** need to apply. [S1][S3]
+  in 2026, so you travel on the exemption and do **not** need to apply. [S1][S8]
 - The requirement resumes **1 Jan 2027**. (If your plans ever slide past
   New Year, you'd need K-ETA.)
 - **Do not** use unofficial "K-ETA" sites that charge inflated fees. The only

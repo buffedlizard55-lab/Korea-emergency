@@ -31,8 +31,7 @@
    `06-holidays-traffic-dates.md`.
 4. **Travel advisory is Level 1** (lowest): exercise normal precautions.
    Enroll in **STEP** before you go. See `08-safety-security.md`.
-5. **Weather is cold-to-crisp** — average highs ~11–12 °C / lows ~2–3 °C in
-   Seoul, with cool evenings and possible light snow late month. Pack layers.
+5. **Weather is cold-to-crisp** — check the official KMA forecast close to departure. Pack layers.
    See `04-weather-packing.md`.
 
 ## Time zone & jet lag

@@ -1,22 +1,18 @@
 # 5. Weather & Packing
 
-Source: Korea Meteorological Administration climatology [S12]; cross-checked
-with long-term climate data. Fine-dust: AirKorea [S13].
+Source: Korea Meteorological Administration forecast and warning services [S12];
+fine-dust information: AirKorea [S13]. No fixed forecast is asserted here.
 
 ## November weather (Seoul)
-| Metric | Value |
-|--------|-------|
-| Avg daytime high | ~11–12 °C / 52–53 °F |
-| Avg overnight low | ~2–3 °C / 36–37 °F |
-| Rainy days | ~5–7 |
-| Light snow | Possible late month (not usually disruptive) |
-| Sunshine | ~7 h/day |
-| Fine-dust (yellow dust) | Possible; check daily [S13] |
+| Metric | Official verification |
+|--------|-----------------------|
+| Temperature, precipitation, snow | Check the KMA forecast and warnings close to each travel date [S12]. |
+| Fine dust | Check AirKorea close to each travel date [S13]. |
 
 - **It's colder than it looks.** Evenings and windy days feel much colder.
 - By **mid–late November** it gets noticeably colder; northern/eastern areas
   (Gangwon) and higher ground can see light snow.
-- **Jeju / south** is milder (highs ~13–16 °C).
+- Do not rely on a city-wide average; check the destination-specific forecast.
 
 ## Packing list (layering is key)
 **Clothing**

@@ -45,7 +45,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 |---|---|---|---|---|---|
 | 31 Oct | Sat | Pre-trip | SFO | — | Departure |
 | **1 Nov** | **Sun** | **Arrival** | **Seoul (ICN)** | 1 | **Arrive 21:00; submit e-Arrival; night transport; save Korean address** |
-| 2–8 Nov | Mon–Sun | 1 | Seoul | 7 | Winter weather (~11–12 °C / 2–3 °C low); crowd-safety at Itaewon/Hongdae (weekend nights) |
+| 2–8 Nov | Mon–Sun | 1 | Seoul | 7 | Check the KMA forecast; crowd-safety at Itaewon/Hongdae (weekend nights) |
 | **8 Nov** | **Sun** | **2** | **Daejeon / Cheonan** | 5 | **No US consulate — consular help = Seoul 24/7 (+82-2-397-4114)** |
 | 9–12 Nov | Mon–Thu | 2 | Daejeon / Cheonan | 5 | Ask 1330 for nearest international clinic |
 | **13 Nov** | **Fri** | **3** | **Busan** | 7 | **Busan Consulate has NO consular services; use Seoul** |
@@ -105,8 +105,8 @@ An emergency-preparedness repo with a conservative verification audit for your t
 | **1330** | Korea Travel Helpline — **English 24/7**; from overseas `+82-2-1330` | S1 / S2 |
 | **+82-2-3210-0404** | Korea Emergency Call Center — request English operator | S1 |
 | **+82-2-397-4114** | **U.S. Embassy Seoul — 24/7** | S1 / S2 |
-| **188 Sejong-daero, Jongno-gu** | U.S. Embassy Seoul address | S2 / S3 |
-| **+82-51-863-0731** | U.S. Consulate Busan — **NO consular services** (passport / serious → Seoul) | S2 / S3 |
+| **188 Sejong-daero, Jongno-gu** | U.S. Embassy Seoul address | S2 / S8 |
+| **+82-51-863-0731** | U.S. Consulate Busan — **NO consular services** (passport / serious → Seoul) | S2 / S8 |
 | **+1-202-501-4444** | U.S. State Dept — from abroad | S1 |
 | [`step.state.gov`](https://step.state.gov) | STEP enrollment | S5 |
 | [`e-arrivalcard.go.kr`](https://www.e-arrivalcard.go.kr) | **Mandatory e-Arrival Card** | S7 |
@@ -147,7 +147,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 ## ⚠️ Important Notes
 
 - **No Korean fonts installed in workspace** — `print/emergency-card.pdf` uses romanized "Suneung / CSAT"; the HTML version (`print/emergency-card.html`) renders **수능** properly in a browser.
-- **Workspace snapshots exclude `.git/config`** (credentials) and build dirs — work is saved in git branch `arena/019fd2e4-korea-emergency`; push only to this branch.
+- **Workspace snapshots exclude `.git/config`** (credentials) and build dirs — work is saved in git branch `arena/01a023ba-korea-emergency`; push only to this branch.
 - **Repo was rebuilt after workspace refresh** (same issue occurred twice). All files are present at latest commit (`3b0ce7c`).
 - **Official source links reviewed 21 Aug 2026** against official sources (`docs/sources.md`). Policies can change — always check the source portal before departure.
 
