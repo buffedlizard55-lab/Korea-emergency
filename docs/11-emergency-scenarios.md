@@ -1,7 +1,7 @@
 # 11. Emergency Scenario Guide — What to Do When Unplanned Things Happen
 
 > **For:** Two U.S. citizens (1 male / 1 female), California → Seoul 31 Oct – 22 Nov 2026  
-> **Sources:** Verified official sources S1–S15; scenario protocols derived from U.S. State Dept / Embassy guidance; Korean emergency-service procedures; travel-preparedness best practice  
+> **Sources:** Official contacts and links are in S1–S15. Scenario steps combine official emergency contacts with general safety recommendations; they are not legal, medical, insurance, or hotel-policy guarantees.  
 > **Use with:** `docs/10-itinerary-day-plan.md`, `checklists/offline-emergency-card.md`, `checklists/medical-alert-card.md`, `checklists/translation-card.md`, `print/emergency-card.pdf`  
 
 ---
@@ -122,7 +122,7 @@
 1. **Leave immediately.** Use stairs — never elevator. Feel door handle — if hot, do not open; seal door with wet towel / clothing; call 119 from inside.
 2. **Go to pre-agreed meeting point** (outside, away from building, near other travelers / hotel staff). Confirm both travelers are safe.
 3. **Do not re-enter** for belongings / phones / passports — only if staff confirm it's safe and you have someone watching you.
-4. **Call 119** from outside; ask for fire / rescue; inform hotel management; ask concierge if you need alternative accommodation (hotel should arrange at their expense if they are at fault — but for safety, confirm with staff).
+4. **Call 119** from outside; ask for fire / rescue; inform hotel management; ask concierge if you need alternative accommodation (ask staff about relocation and payment arrangements; hotel liability and reimbursement depend on the facts and applicable law).
 5. **Notify CA emergency contact** once safe; use backup phone / hotel phone / ask staff to call for you.
 
 ---
@@ -137,7 +137,7 @@
 
 **If cards lost / stolen / frozen:**
 1. Call bank using international number (from backup phone / hotel phone / public phone).
-2. Ask bank to freeze / cancel cards; ask for emergency replacement if they can mail to Korea (usually 3–7 days — not fast enough for a 22 Nov trip; better to rely on backup card + cash + wire).
+2. Ask bank to freeze / cancel cards; ask for emergency replacement if they can mail to Korea (timing varies; do not rely on replacement delivery as your only backup).
 3. Use **backup card**; use **cash**; ask hotel / concierge for temporary help (most major hotels can help with emergency cash / card replacement or direct billing to your room if you can provide card info over phone).
 4. If you need an emergency wire: ask CA contact to send via Western Union / MoneyGram to a major bank / station near your hotel (Seoul Station / Busan Station / Daejeon Station have branches / agents). You will need your passport + receipt number.
 5. If you have travel insurance that covers lost/stolen baggage / cards, call claim line; keep police report (if theft) and bank notification records.

@@ -16,8 +16,8 @@
 
 ## On CSAT day — Thursday 19 Nov
 - [ ] If traveling within Korea: extra morning time; avoid driving near schools/test sites
-- [ ] **No flights ~12:30–2:00 PM** (nationwide aviation hold 1:05–1:40 PM)
-- [ ] Expect offices/banks open later (10 AM)
+- [ ] **Check airline/airport notices before booking flights on CSAT day**; KICE English listening session is 13:10–14:20
+- [ ] Check official notices for any altered office, bank, or transport hours
 
 ## Departure day — Sun 22 Nov
 - [ ] Arrive ICN ~3 h before international departure

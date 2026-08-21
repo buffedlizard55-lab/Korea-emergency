@@ -18,23 +18,21 @@ university entrance exam. In 2026 it is held on **Thursday, 19 November**
 (the Thursday immediately preceding the 3rd Saturday of November). This is
 **inside your trip**. [S10]
 
-On CSAT day the whole country reorganizes around the exam (~500,000+
-test-takers):
-- **Morning traffic:** Government offices, banks, and large companies open at
-  ~10 AM instead of 9 AM; roads near the ~1,200 test centers are heavily
-  managed; no-vehicle zones exist within ~200 m of test sites; police
-  escorts operate. Expect **slower-than-usual morning travel** (subways and
-  buses run extra, but road traffic is managed/restricted).
-- **Aviation hold:** A nationwide **~1:05 PM – 1:40 PM** hold on takeoffs and
-  landings for the English-listening portion. Don't plan to fly between
-  ~1–2 PM that day.
-- **Noise restrictions:** Construction and honking are suppressed near test
-  centers; military training pauses.
+On CSAT day, normal operations may be adjusted around the exam. The following
+items are confirmed or should be treated as planning cautions:
+- **Exam schedule:** KICE lists the English listening session at **13:10–14:20**.
+  This is an exam timetable, not a flight restriction. Check the airline, airport,
+  and Korean aviation authority closer to the date for any operational notice.
+- **Travel caution:** Because this is a national exam, verify same-day transport
+  and local government notices before making a time-critical journey. Do not
+  state exact opening times, test-center counts, road radii, or noise rules
+  without a dated official notice.
 
 **What this means for you:**
 - If you travel within Korea on 19 Nov, build in extra time in the morning and
   avoid driving near schools/test sites.
-- Don't schedule any flight for ~12:30–2:00 PM on 19 Nov.
+- If flying on 19 Nov, check the airline/airport for restrictions before booking;
+  do not infer a restriction from the KICE exam timetable.
 - It is *not* a public holiday — shops, attractions, and restaurants operate,
   just with adjusted office/bank hours and traffic management.
 
@@ -58,5 +56,5 @@ test-takers):
 |-----------|-----|-------|----------------|
 | 31 Oct | Sat | Halloween | Mostly affects U.S. departure; not a Korean disruption |
 | 1 Nov | Sun | **Arrive ICN 9 PM** | Late-night arrival — see transport |
-| 19 Nov | Thu | **CSAT (수능)** | High — morning traffic mgmt, ~1 PM aviation hold |
+| 19 Nov | Thu | **CSAT (수능)** | High — morning traffic mgmt, English listening session: 13:10–14:20 (KICE schedule) |
 | 22 Nov | Sun | **Depart Korea** | Normal weekend; allow buffer to ICN |

@@ -1,7 +1,7 @@
 # Official Sources & Verification Register
 
-Every item in this kit was checked against official government or agency
-sources. Links were last verified on **5 Aug 2026**. Re-verify anything
+Official sources used for critical facts are listed below; recommendations
+and estimates are not official rules. Links were reviewed on **21 Aug 2026**. Re-verify anything
 time-sensitive (entry rules, COVID status, holiday/CSAT dates) close to
 departure, because policies can change with little notice.
 
@@ -15,18 +15,18 @@ departure, because policies can change with little notice.
 | S1 | U.S. State Dept — South Korea Travel Advisory (Level 1) | https://travel.state.gov/en/international-travel/travel-advisories/south-korea.html |
 | S2 | U.S. Embassy & Consulate, Republic of Korea | https://kr.usembassy.gov/ |
 | S3 | U.S. Embassy Seoul — K-ETA exemption message | https://kr.usembassy.gov/010725-message-for-u-s-citizens-extension-of-the-korean-electronic-travel-authorization-k-eta-exemption-december-16-2024/ |
-| S4 | U.S. Embassy — Information on Controlled Substances (PDF) | https://kr.usembassy.gov/ (search "controlled substances") |
+| S4 | U.S. Embassy — Information on Controlled Substances | https://kr.usembassy.gov/services-controlled-substance/ |
 | S5 | U.S. Smart Traveler Enrollment Program (STEP) | https://step.state.gov |
 | S6 | CDC — Health Information for Travelers to South Korea | https://wwwnc.cdc.gov/travel/destinations/traveler/none/south-korea |
 | S7 | Korean e-Arrival Card (official) | https://www.e-arrivalcard.go.kr |
 | S8 | Korea Electronic Travel Authorization (K-ETA) | https://www.k-eta.go.kr |
-| S9 | Korea Tourism Organization — VISITKOREA (official holidays) | https://english.visitkorea.or.kr |
-| S10 | Korea Institute for Curriculum & Evaluation (KICE) — CSAT | https://www.kice.re.kr (search "수능 시행기본계획") |
+| S9 | Korea Tourism Organization — 2026 public holidays | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140038 |
+| S10 | KICE — CSAT introduction and test-administration schedule | https://www.kice.re.kr/sub/info.do?m=0205&s=english |
 | S11 | Ministry of Food & Drug Safety (MFDS) — narcotics import | https://www.mfds.go.kr |
 | S12 | Korea Meteorological Administration (KMA) | https://www.kma.go.kr/eng/ |
 | S13 | Air Quality (AirKorea, KECO) | https://www.airkorea.or.kr |
-| S14 | Incheon International Airport | https://www.airport.kr |
-| S15 | AREX Airport Railroad | https://www.arex.or.kr |
+| S14 | Incheon International Airport — late-night buses | https://www.airport.kr/ap_lp/en/tpt/pblctpt/pblctpt1/sunight/sunight.do |
+| S15 | AREX — official timetable | https://www.arex.or.kr/content.do?url=&menuNo=MN201503300000000002&contentNo=&clientLocale=en_US&clientDevice=Normal |
 
 ## Key facts and the source that confirms them
 

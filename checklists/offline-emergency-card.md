@@ -25,8 +25,7 @@ Arrive ICN **Sun 1 Nov ~9 PM** · Depart **Sun 22 Nov**
 Call U.S. Embassy **+82-2-397-4114** immediately.
 
 ### Key dates
-- **19 Nov (Thu): CSAT exam day** — heavy AM traffic mgmt; **no flights
-  ~1:05–1:40 PM**; offices/banks open ~10 AM.
+- **19 Nov (Thu): CSAT exam day** — heavy AM traffic mgmt; **KICE English listening session 13:10–14:20**; check airline/airport notices for any flight restrictions.
 - No Korean public holidays 1–22 Nov.
 
 ### Keep with you
