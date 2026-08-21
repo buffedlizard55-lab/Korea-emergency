@@ -1,3 +1,12 @@
+> # ⛔ SUPERSEDED — DO NOT PLAN FROM THIS FILE
+>
+> This day plan was written for a **different itinerary** (it includes a **Daejeon / Cheonan** leg
+> and places **CSAT 19 Nov inside the Busan stay**). The actual trip is
+> **Seoul 1–9 Nov · Busan 9–15 Nov · Seoul 15–22 Nov 2026**, which puts **CSAT in Seoul**.
+>
+> ➡️ **Use [`docs/15-itinerary-corrected-seoul-busan-seoul.md`](15-itinerary-corrected-seoul-busan-seoul.md) instead.**
+> Retained unedited for audit purposes only. See `docs/13-irregularities-2026-08-21.md` (IRR-1).
+
 # 10. Itinerary Day Plan (Emergency-First) — 1 Nov – 22 Nov 2026
 
 > **QUICK REF — PRINT / SAVE OFFLINE**
@@ -321,7 +330,7 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 
 ---
 
-*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. Critical factual claims are linked to official sources S1–S17 (`docs/sources.md`); recommendations are not official rules. Re-verify time-sensitive items 1–2 weeks before departure.*
+*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. Critical factual claims are linked to official sources S1–S55 (`docs/sources.md`); recommendations are not official rules. Re-verify time-sensitive items 1–2 weeks before departure.*
 
 ---
 
@@ -374,7 +383,7 @@ Every number / URL below comes from official sources in `docs/sources.md`; sourc
 
 ---
 
-*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. Critical factual claims are linked to official sources S1–S17 (`docs/sources.md`); recommendations are not official rules. Re-verify time-sensitive items 1–2 weeks before departure. Update this file as you book hotels and confirm attractions.*
+*Built for two U.S. citizens (1 male, 1 female) from California, trip 31 Oct – 22 Nov 2026, SFO → ICN, arriving 1 Nov ~21:00, leaving 22 Nov from ICN. Critical factual claims are linked to official sources S1–S55 (`docs/sources.md`); recommendations are not official rules. Re-verify time-sensitive items 1–2 weeks before departure. Update this file as you book hotels and confirm attractions.*
 ---
 
 *Navigation: [Repo landing page (README)](https://github.com/buffedlizard55-lab/Korea-emergency) · [Emergency contacts (docs/03)](03-emergency-contacts.md) · [Entry docs (docs/02)](02-entry-documents.md) · [Source register (sources.md)](sources.md) · [New scenario guide (11-emergency-scenarios.md)](11-emergency-scenarios.md)

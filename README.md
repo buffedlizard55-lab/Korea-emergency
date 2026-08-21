@@ -11,6 +11,35 @@ An emergency-preparedness repo with a conservative verification audit for your t
 
 ---
 
+## ✅ START HERE — Corrected itinerary (Seoul · Busan · Seoul)
+
+> **[`docs/15-itinerary-corrected-seoul-busan-seoul.md`](docs/15-itinerary-corrected-seoul-busan-seoul.md)**
+> — **Seoul 1–9 Nov · Busan 9–15 Nov · Seoul 15–22 Nov 2026** (8 + 6 + 7 = 21 nights, verified).
+>
+> **🔴 Key correction: CSAT (Thu 19 Nov) is a SEOUL day, not Busan.** KTX legs are **9 Nov** and
+> **15 Nov**. There is **no Daejeon/Cheonan leg**. `docs/10-itinerary-day-plan.md` is **superseded**
+> and kept only for audit.
+
+## 🆕 Emergency resources — 40 verified entries (2 sets)
+
+> **[`docs/12-…`](docs/12-seoul-busan-emergency-resources.md) (N1–N20)** — Emergency Ready App, Baro
+> reporting app, Safe Korea, **1339 / 1345 / 182 / 1577-1366**, E-Gen, Busan emergency-medical guide,
+> Busan international hospitals, Haeundae Paik Hospital, night pharmacies, Busan 120 & 1600-0051,
+> earthquake guides, Humetro lost & found.
+>
+> **[`docs/14-…`](docs/14-seoul-busan-emergency-resources-set2.md) (N21–N40)** — Safety e-Report,
+> e-People (16 languages), 1330 complaints, Busan 112/119 how-to, typhoon & water-safety guides,
+> apartment fire manual, Seoul Global Center, Seoul Foreign Resident Center, migrant-women
+> counselling, Visit Seoul tourist police, **Korea Customs USD 10,000 rule**, 2026 holiday calendar,
+> e-Arrival scam warning, KMA earthquake database, weather line **131**, Korail.
+>
+> ⚠️ **1339 is the infectious-disease line, not an ambulance.** Ambulance is **119**.
+> ⚠️ **122 (maritime) no longer exists** — merged into **119**. Relevant to Busan's coast.
+>
+> Review log: **[`docs/13-irregularities-2026-08-21.md`](docs/13-irregularities-2026-08-21.md)**
+
+---
+
 ## ⚡ QUICK START — 3 Steps (Start Here)
 
 | Step | Action | Link |
@@ -87,7 +116,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 - [`docs/07-transportation.md`](docs/07-transportation.md) — Late-night ICN, AREX / night bus / taxi + night surcharge, Kakao T
 - [`docs/08-safety-security.md`](docs/08-safety-security.md) — Level 1, STEP, crowd-crush (Itaewon 2022), lost passport
 - [`docs/09-money-communication.md`](docs/09-money-communication.md) — Cash, SIM / eSIM, phrases, adapters
-- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S17** — official links reviewed 21 Aug 2026
+- [`docs/sources.md`](docs/sources.md) — **Official source register S1–S55** — official links reviewed 21 Aug 2026
 
 ### 🖨️ Printable / Offline
 - [`print/emergency-card.pdf`](print/emergency-card.pdf) — One-page wallet card (romanized; no Korean fonts available in workspace)

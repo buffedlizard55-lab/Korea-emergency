@@ -30,6 +30,65 @@ departure, because policies can change with little notice.
 | S16 | ROK Ministry of Foreign Affairs — currency/customs guidance | https://overseas.mofa.go.kr/ca-montreal-en/wpge/m_20346/contents.do |
 | S17 | U.S. Trade.gov legacy electric-current table — Korea | https://legacy.trade.gov/mas/ian/ECW/ks.html |
 
+## Sources added 21 Aug 2026 (Seoul & Busan emergency pass)
+
+Each of these was opened and read on 21 Aug 2026 for `docs/12-seoul-busan-emergency-resources.md`.
+
+| # | Source | URL |
+|---|--------|-----|
+| S18 | KMA — **English** weather portal (replaces the Korean-only link in S12 for English use) | https://www.kma.go.kr/neng/index.do |
+| S19 | Seoul Metropolitan Government — Disaster Evacuation Information / Emergency Ready App | https://english.seoul.go.kr/service/living/disaster-evacuation-tips-citizens/ |
+| S20 | VISITKOREA — Disaster Safety Services for International Visitors (Emergency Ready + Baro apps) | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=248145 |
+| S21 | VISITKOREA — Emergency Situations (emergency numbers + international health-care centres) | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042 |
+| S22 | MOIS — Safe Korea / National Disaster & Safety Portal (Korean) | https://www.safekorea.go.kr/ |
+| S23 | MOIS — Integrated emergency reporting (112/119/110; 122 merged into 119) | https://www.mois.go.kr/frt/sub/a06/b10/emergencycall/screen.do |
+| S24 | KDCA — Call Center 1339 (infectious disease, 24/7/365) | https://www.kdca.go.kr/eng/4276/subview.do |
+| S25 | Busan Metropolitan City — Call Center (Busan 120, 1600-0051, 1345) | https://www.busan.go.kr/eng/call-center |
+| S26 | Busan Metropolitan City — Emergency Medical Service Guide | https://www.busan.go.kr/eng/emergency-medical-service-guide |
+| S27 | Busan Metropolitan City — Earthquake Safety Tips (12-language PDFs) | https://www.busan.go.kr/eng/bssafetip |
+| S28 | Visit Busan — Emergency Medical Services + international medical centres | https://www.visitbusan.net/en/index.do?menuCd=DOM_000000303012004000 |
+| S29 | Busan Transportation Corporation (Humetro) — Lost and found, Seomyeon Station | https://www2.humetro.busan.kr/homepage/cht/page/subLocation.do?menu_no=10060103 |
+| S30 | Ministry of Gender Equality & Family — Danuri Helpline 1577-1366 (13 languages, 24/7) | https://www.mogef.go.kr/eng/pc/eng_pc_f006.do |
+| S31 | Danuri / liveinkorea.kr — Danuri Helpline service detail + regional centres (Busan 051-508-1366) | https://www.liveinkorea.kr/portal/USA/page/contents.do?menuSeq=6656&pageSeq=161 |
+| S32 | korea.kr (Government policy briefing) — 182 police civil-complaint / missing-person line, 24h | https://www.korea.kr/news/policyNewsView.do?newsId=148752205 |
+| S33 | korea.kr — Ministry of Education: 2027 CSAT held **19 Nov 2026**, results 11 Dec 2026 | https://www.korea.kr/news/policyNewsView.do?newsId=148932726 |
+| S34 | KICE — CSAT guideline PDF (English 13:10–14:20; listening 17 items within 25 min from 13:10) | https://csatcdn.kice.re.kr/resources/pdf/guideline.pdf |
+| S35 | KICE notice 제2026-85호 via Gyeonggi-do Office of Education — 2027 CSAT timetable PDF | https://www.goe.go.kr/resource/goe/na/bbs_2675/2026/06/76ed0d83-c6ac-4462-b855-8d4ce310c480.pdf |
+| S36 | Korea Tourism Organization (corporate) — 1330 Helpline languages and hours | https://knto.or.kr/eng/1330KoreaTravelHelpline |
+| S37 | Korean Pharmaceutical Association — holiday / late-night pharmacy finder (Korean) | https://www.pharm114.or.kr/ |
+| S38 | E-Gen (National Emergency Medical Center) — emergency room search (Korean) | https://www.e-gen.or.kr/egen/search_emergency_room.do |
+
+## Sources added in the 2nd pass, 21 Aug 2026 (set 2 — `docs/14`)
+
+| # | Source | URL |
+|---|--------|-----|
+| S39 | Korea Customs Service — Declaration of Foreign Currency (USD 10,000 rule, penalties, airport desks) | https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=10800&cntntsId=5500 |
+| S40 | VISITKOREA — official 2026 Public Holidays calendar (14 holidays; none in November) | https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140038 |
+| S41 | Busan Metropolitan City — Report an Issue (Safety e-Report, e-People, 1330 complaints) | https://www.busan.go.kr/eng/report-an-issue |
+| S42 | Busan Metropolitan City — Emergency Rescue Call 112, 119 | https://www.busan.go.kr/eng/bsmedical05 |
+| S43 | Busan Metropolitan City — Emergency Response Guidelines (typhoon/heavy rain, water safety, weather links) | https://www.busan.go.kr/eng/emergency-response-guidelines |
+| S44 | Busan Metropolitan City — Apartment Fire Evacuation Manual | https://www.busan.go.kr/eng/apartment-fire-evacuation-manual |
+| S45 | Busan Metropolitan City — Community Health Centers | https://www.busan.go.kr/eng/bsmedical03 |
+| S46 | Busan Metropolitan City — Hospitals directory | https://www.busan.go.kr/eng/bsmedical04 |
+| S47 | Seoul Metropolitan Government — support facilities for global residents (Global Center, Foreign Resident Center, Migrant Women's Counseling Center) | https://english.seoul.go.kr/shaping-seoul-into-a-global-city-with-international-residents/ |
+| S48 | Seoul Foreign Portal (global.seoul.go.kr) — center directory, contacts and hours | https://global.seoul.go.kr/web/main.do?lang=en |
+| S49 | Visit Seoul (Seoul Tourism Organization) — Safety, tourist police, taxi/call-van guidance | https://english.visitseoul.net/safety |
+| S50 | MOIS — Safety e-Report (안전신고) English portal | https://www.safetyreport.go.kr/eng/#main |
+| S51 | Anti-Corruption & Civil Rights Commission — e-People petition portal (16 languages) | https://www.epeople.go.kr/petition/ |
+| S52 | Korea Tourism Organization — Tourist Complaint Center | https://www.touristcomplaint.or.kr/ |
+| S53 | KMA — domestic earthquake database (국내지진조회) | https://www.weather.go.kr/w/eqk-vol/search/korea.do |
+| S54 | KMA — Weather Call Center 131 (foreign-language helpline) | https://www.kma.go.kr/eng/biz/public_04.jsp |
+| S55 | Korail — official global English ticketing portal | https://www.korail.com/global/eng/main |
+
+> **⚠️ Conflict note on 1339 (S49 vs S24):** Visit Seoul (S49) still labels 1339 an "Emergency Medical
+> Information Center." KDCA (S24), which operates the line, and VISITKOREA (S21) both describe 1339 as
+> the **infectious-disease** call center. **For an ambulance, call 119.** See IRR-2b.
+
+> **Link-health note (21 Aug 2026):** S12's `weather.go.kr/w/index.do` served a Korean service-notice
+> page in this review; use **S18** for English. `kice.re.kr` and `lost112.go.kr` did not resolve from
+> the review environment; the CSAT facts are carried by S33–S35 instead. See
+> `docs/13-irregularities-2026-08-21.md` for the full link audit.
+
 ## Key facts and the source that confirms them
 
 - **Travel Advisory level:** Level 1 — *Exercise normal precautions.* [S1]
