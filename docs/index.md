@@ -25,14 +25,19 @@ This folder contains reference material with a verification audit. Start with [`
 
 - [`09-money-communication.md`](09-money-communication.md) — Cash / cards / SIM / eSIM / data / phrases / power adapter
 
+## Corrected Itinerary (use this one)
+
+- [`15-itinerary-corrected-seoul-busan-seoul.md`](15-itinerary-corrected-seoul-busan-seoul.md) — **Seoul 1–9 Nov · Busan 9–15 Nov · Seoul 15–22 Nov**; CSAT 19 Nov is a **Seoul** day; KTX 9 Nov & 15 Nov. **Supersedes `10-itinerary-day-plan.md`.**
+
 ## Seoul & Busan Emergency Resources (added 21 Aug 2026)
 
+- [`14-seoul-busan-emergency-resources-set2.md`](14-seoul-busan-emergency-resources-set2.md) — **Entries N21–N40**: Safety e-Report, e-People, 1330 complaints, Busan 112/119 guidance, typhoon & water safety, apartment fire manual, Seoul Global Center, Seoul Foreign Resident Center, Visit Seoul tourist police, Korea Customs currency rule, 2026 holidays, e-Arrival scam warning, KMA earthquake DB, weather 131, Korail
 - [`12-seoul-busan-emergency-resources.md`](12-seoul-busan-emergency-resources.md) — **20 verified new entries** for Seoul and Busan: Emergency Ready App, Baro reporting app, Safe Korea, 1339 / 1345 / 182 / 1577-1366, E-Gen, Busan emergency medical guide, Busan international hospitals, Haeundae Paik Hospital, night-pharmacy finder, Busan 120 / 1600-0051, Busan earthquake guides, Humetro lost & found
 - [`13-irregularities-2026-08-21.md`](13-irregularities-2026-08-21.md) — **Review log / flagged irregularities** — itinerary mismatch, 1339 misuse risk, obsolete 122, broken source links, unverified claims
 
 ## Verification
 
-- [`sources.md`](sources.md) — Official source register S1–S38; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
+- [`sources.md`](sources.md) — Official source register S1–S55; official links reviewed 21 Aug 2026; re-verify 1–2 weeks out (K-ETA exemption, e-Arrival Card, CSAT, weather / AQI)
 
 ---
 

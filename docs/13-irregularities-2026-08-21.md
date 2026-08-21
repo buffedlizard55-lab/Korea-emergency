@@ -36,10 +36,15 @@ Consequences that are wrong for you throughout `README.md`, `docs/01`, `docs/10`
    on **15 Nov** — on **19 Nov you are in Seoul**. Any CSAT planning must be Seoul-based.
 4. Night counts, the "21 nights" table and the "Seoul exceeds 5–7 days" note all describe the old plan.
 
-**Action taken:** I did **not** rewrite the itinerary files, because changing 380 lines of day plan
-silently would bury the discrepancy. I have flagged it here and corrected the trip-window framing in
-the new files. **Decision needed from you:** confirm the Seoul/Busan/Seoul split and I will rebuild
-`docs/10-itinerary-day-plan.md` around it in one pass.
+**✅ RESOLVED — 2nd pass, 21 Aug 2026.** The itinerary was restated identically a second time, so it is
+treated as confirmed. A corrected plan now exists at
+**[`docs/15-itinerary-corrected-seoul-busan-seoul.md`](15-itinerary-corrected-seoul-busan-seoul.md)** —
+Seoul 8 nights + Busan 6 + Seoul 7 = 21 nights (arithmetic recomputed), KTX legs corrected to
+**9 Nov** and **15 Nov**, Daejeon/Cheonan removed, and **CSAT relocated to Seoul** with the full
+verified exam timetable.
+
+`docs/10-itinerary-day-plan.md` is **left in place but superseded** and now carries a banner at the
+top. It was not deleted so the original record remains auditable.
 
 ---
 
@@ -109,7 +114,47 @@ It should stay clearly labelled as personal caution, not a Korean requirement.
 
 ---
 
-## 🟡 IRR-6 — "Currency on entry and exit: no declaration needed" vs the repo's USD 10,000 rule
+## 🔴 IRR-2b — NEW: official-vs-official conflict on 1339 (found in 2nd pass)
+
+Two Korean government sources describe **1339 differently**:
+
+| Source | What it says |
+|---|---|
+| **KDCA** (the agency that operates it) | 1339 is the **KDCA Call Center** for infectious-disease information and reporting, 24/7/365 — [kdca.go.kr/eng](https://www.kdca.go.kr/eng/4276/subview.do) |
+| **VISITKOREA** (KTO) | "**Infectious Disease Emergencies: +82-1339**" — [VISITKOREA](https://english.visitkorea.or.kr/svc/contents/contentsView.do?vcontsId=140042) |
+| **Visit Seoul** (Seoul Tourism Organization) — ⚠️ | "**Emergency Medical Information Center: 1339 (medical assistance for international visitors)**" — [english.visitseoul.net/safety](https://english.visitseoul.net/safety) |
+
+**Assessment:** Visit Seoul's description appears to be **stale**. The operating agency (KDCA) and the
+national tourism body both describe 1339 as infectious-disease. The old "emergency medical
+information center" role was merged into 119.
+
+**Practical rule — do not depend on 1339 for an ambulance. Call 119.** Flagged because an official
+Seoul tourism page still says otherwise, and a traveler following it could lose time.
+
+---
+
+## ✅ IRR-6 — RESOLVED: currency declaration confirmed by Korea Customs Service
+
+Previously flagged as a State-Dept-vs-MOFA conflict. Now settled at the **authoritative source**.
+
+Korea Customs Service, official English page:
+
+> "If you bring in means of payment **not exceeding USD 10,000** to Korea, you do not need any
+> permission or declaration… However, if you enter the country with foreign currency, KRW notes, or
+> checks **above USD 10,000 or the equivalent in total, you must report it to the Customs.**"
+
+Procedure: tick **item 3** on the Traveler Declaration Form and obtain the Certificate of Foreign
+Currency Declaration — it **cannot be issued once you have left the immigration area**. Penalty for
+non-declaration: up to 1 year imprisonment or a fine up to **KRW 100 million**.
+[customs.go.kr — Declaration of Foreign Currency](https://www.customs.go.kr/english/cm/cntnts/cntntsView.do?mi=10800&cntntsId=5500)
+
+**Conclusion:** the repo's USD 10,000 rule is **correct**. The State Department's "No declaration
+needed on entry or exit" line is a simplification that applies below the threshold and should not be
+relied on. Airport desks: **T1 032-722-4422 · T2 032-723-5119**.
+
+---
+
+## Superseded original wording of IRR-6
 
 `docs/09-money-communication.md` states that currency over **USD 10,000** must be declared to
 Customs, sourced to a ROK MOFA consular page (S16).
@@ -168,7 +213,7 @@ repo was right to remove it. Verify with the airline/airport if you fly on 19 No
 
 | Claim in repo | Status |
 |---|---|
-| "No Korean national public holidays 1–22 Nov 2026" (S9) | **Unverified this pass** — the VISITKOREA holiday URL returned a 400 error. The claim is plausible (no statutory ROK holiday falls in that window in a normal year) but it is stated as fact in five files on one unreachable source. Re-check before departure. |
+| "No Korean national public holidays 1–22 Nov 2026" (S9) | ✅ **RESOLVED 2nd pass** — the VISITKOREA page loaded this time. It lists **14 public holidays for 2026** and **none is in November**. Claim confirmed. See N36 in `docs/14`. |
 | AREX timetable / fares (S15) | Not reachable this pass. Repo already correctly refuses to state fixed times. |
 | ICN late-night bus routes N6000/N6001 (S14) | Not reachable this pass; airport.kr redirected to the Korean intro page. Treat route numbers as needing confirmation at the airport. |
 | K-ETA portal notice (S8, `bbsSn=299707`) | Not opened directly. **However the exemption itself is verified** on the State Dept page: K-ETA exemption for U.S. passport holders **extended through 31 December 2026**, required from 1 Jan 2027. |
@@ -200,13 +245,29 @@ repo was right to remove it. Verify with the airline/airport if you fly on 19 No
 
 ---
 
-## Recommended next actions
+## Status summary after the 2nd verification pass (21 Aug 2026)
 
-1. **Confirm the itinerary** (IRR-1) so `docs/10` can be rebuilt for Seoul→Busan→Seoul with CSAT
-   placed in Seoul.
-2. **Re-check the holiday claim** (IRR-9) on a working VISITKOREA/government calendar page.
-3. **Resolve the currency-declaration conflict** (IRR-6) against Korea Customs Service directly.
-4. Update `docs/sources.md` KMA links to `kma.go.kr/neng` (done in the register as S18).
+| ID | Issue | Status |
+|---|---|---|
+| IRR-1 | Wrong itinerary (Daejeon leg; CSAT in Busan) | ✅ **Resolved** — corrected plan in `docs/15` |
+| IRR-2 | 1339 not an ambulance line | ✅ Documented (N6) |
+| IRR-2b | Visit Seoul still calls 1339 "Emergency Medical Information Center" | 🔴 **Open — official page appears stale; use 119** |
+| IRR-3 | 122 maritime number obsolete | ✅ Documented (N24, `docs/15`) |
+| IRR-4 | Busan no consular services | ✅ Re-verified correct |
+| IRR-5 | Passport-validity wording | 🟡 Open — label as advice, not a Korean rule |
+| IRR-6 | Currency declaration conflict | ✅ **Resolved** — Korea Customs confirms USD 10,000 (N35) |
+| IRR-7 | Broken/redirecting source links | ✅ Corrected — KMA English is `/neng`, independently confirmed by Busan city (N28) |
+| IRR-8 | CSAT date/time | ✅ Confirmed from two official sources; full timetable in `docs/15` |
+| IRR-9 | Unverified claims | ✅ Holiday claim resolved (N36); AREX / ICN buses / Lost112 / Seoul Metro 1577-1234 **still unverified — excluded from all verified lists** |
 
-*Reviewed 21 Aug 2026. No claim in this file is asserted without a link that was opened, or an
+## Remaining open items
+
+1. **IRR-2b** — treat Visit Seoul's 1339 line as stale. Ambulance = **119**.
+2. **IRR-5** — passport validity: State says no minimum; keep "6 months" labelled as caution only.
+3. **Still unreachable from this environment** (do not cite as verified): `lost112.go.kr`,
+   AREX timetable, ICN night-bus routes N6000/N6001, Seoul Metro lost & found 1577-1234,
+   Seoul Dasan 120 foreign-language hours, Busan beach lifeguard season dates.
+4. `docs/10-itinerary-day-plan.md` remains superseded-but-present by design.
+
+*Reviewed twice, 21 Aug 2026. No claim in this file is asserted without a link that was opened, or an
 explicit "unverified" label.*
