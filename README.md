@@ -55,7 +55,7 @@ An emergency-preparedness repo with a conservative verification audit for your t
 | 21 Nov | Sat | 4 | Seoul | — | Last full day; crowd-safety if evening |
 | **22 Nov** | **Sun** | **4 — Departure** | **Seoul → ICN** | — | **Depart; allow 60–90 min to ICN** |
 
-*Ranges met: Seoul 9 nights (7 + 2 final), Daejeon 5, Busan 7, back to Seoul 2 — all within your stated 5–7 / 3–5 / 5–7 / 1–2. Shift 1 night either direction once hotels booked.*
+*The draft allocation is Seoul 9 nights total (7 first + 2 final), Daejeon 5, and Busan 7. Seoul therefore exceeds the stated 5–7-day range; adjust the city split after hotels and transport are decided.*
 
 ---
 

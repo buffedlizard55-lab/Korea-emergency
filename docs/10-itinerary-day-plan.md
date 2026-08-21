@@ -26,7 +26,7 @@ It is a day-by-day framework that pairs your travel dates with the places you wi
 | **3** | **Busan** (includes CSAT) | **13 Nov (Fri) → 20 Nov (Fri)** | 7 | **CSAT Thu 19 Nov** — exam-day morning travel caution; English listening session: 13:10–14:20 (KICE schedule); no consular services at Busan Consulate (+82-51-863-0731 — **no passport/emergency services**, use Seoul); beach/current safety if Haeundae/Gwangalli; coastal wind/cold |
 | **4** | Seoul — departure | **20 Nov (Fri) → 22 Nov (Sun)** | 2 | Sunday departure — allow 60–90 min to ICN; weekend traffic lighter but still build buffer (S7/S15) |
 
-**Total nights:** 21 (Nov 1 arrival → Nov 21 last night → depart 22 Nov). This fits your ranges: Seoul 9 nights total (7 first + 2 final) — close to 5–7; Daejeon 5; Busan 7 — all within your stated ranges, and you can shift 1 night either direction once hotels are booked.
+**Total nights:** 21 (Nov 1 arrival → Nov 21 last night → depart 22 Nov). The draft allocation is Seoul 9 nights total (7 first + 2 final), Daejeon 5, and Busan 7. Seoul therefore exceeds the stated 5–7-day range; adjust the city split after hotels and transport are decided.
 
 ---
 
